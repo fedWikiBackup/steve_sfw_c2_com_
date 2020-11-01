@@ -1,0 +1,77 @@
+{
+  "title": "Chris Stevenson",
+  "story": [
+    {
+      "type": "html",
+      "text": "... is a developer for [[Thought Works]]. He was born in the UK, grew up in Australia, is employed by the UK office, and is currently working in India.",
+      "id": "826bde67dd2751f57add1df37fcf49de"
+    },
+    {
+      "type": "html",
+      "text": "\nWhen he is in London you can often find him hanging out at [[Geek Night]] [http://geeknight.thoughtworks.com/index.php/GeekNight geeknight.thoughtworks.com] or the [[Extreme Tuesday Club]].",
+      "id": "ff06671c6bb1686a4f23e1345de12009"
+    },
+    {
+      "type": "html",
+      "text": "\nHe maintains a blog at [http://www.skizz.biz www.skizz.biz]",
+      "id": "f601eebf8f5ef9cdf0d893b3efc48fcc"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "375bb2b2dbdcc2a30a52bde33430931d"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "8848d9269b6ef3c3c5beb61449052361"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ChrisStevenson c2.com]",
+      "id": "39f7796847797a686eb7b295a3676662"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1085974739000,
+      "id": "f6709c7e7f71410a4288b2d0d83b1458",
+      "type": "create",
+      "item": {
+        "title": "Chris Stevenson",
+        "story": [
+          {
+            "type": "html",
+            "text": "... is a developer for [[Thought Works]]. He was born in the UK, grew up in Australia, is employed by the UK office, and is currently working in India.",
+            "id": "826bde67dd2751f57add1df37fcf49de"
+          },
+          {
+            "type": "html",
+            "text": "\nWhen he is in London you can often find him hanging out at [[Geek Night]] [http://geeknight.thoughtworks.com/index.php/GeekNight geeknight.thoughtworks.com] or the [[Extreme Tuesday Club]].",
+            "id": "ff06671c6bb1686a4f23e1345de12009"
+          },
+          {
+            "type": "html",
+            "text": "\nHe maintains a blog at [http://www.skizz.biz www.skizz.biz]",
+            "id": "f601eebf8f5ef9cdf0d893b3efc48fcc"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "375bb2b2dbdcc2a30a52bde33430931d"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "8848d9269b6ef3c3c5beb61449052361"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ChrisStevenson c2.com]",
+            "id": "39f7796847797a686eb7b295a3676662"
+          }
+        ]
+      }
+    }
+  ]
+}
