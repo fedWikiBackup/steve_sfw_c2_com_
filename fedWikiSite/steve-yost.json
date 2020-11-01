@@ -1,0 +1,57 @@
+{
+  "title": "Steve Yost",
+  "story": [
+    {
+      "type": "html",
+      "text": "Creator of [[Quick Topic]]. Perl hacker. Now with a sorta blog called Blur Circle ([http://www.quicktopic.com/blurcircle www.quicktopic.com]).",
+      "id": "eab133f198a381d64cb3ccd9fb45b60a"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "56fcbe7b54f080f76cb197888ae7766e"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "100d482aeb4fc5844b0584feb21cd5ab"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveYost c2.com]",
+      "id": "3ea4ee23b2d95ac4dec9df78b3b5e5f1"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1086084630000,
+      "id": "69b1d01fc807ce967a743f50d1b49180",
+      "type": "create",
+      "item": {
+        "title": "Steve Yost",
+        "story": [
+          {
+            "type": "html",
+            "text": "Creator of [[Quick Topic]]. Perl hacker. Now with a sorta blog called Blur Circle ([http://www.quicktopic.com/blurcircle www.quicktopic.com]).",
+            "id": "eab133f198a381d64cb3ccd9fb45b60a"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "56fcbe7b54f080f76cb197888ae7766e"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "100d482aeb4fc5844b0584feb21cd5ab"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveYost c2.com]",
+            "id": "3ea4ee23b2d95ac4dec9df78b3b5e5f1"
+          }
+        ]
+      }
+    }
+  ]
+}
