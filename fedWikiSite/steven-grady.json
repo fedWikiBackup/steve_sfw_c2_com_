@@ -1,0 +1,67 @@
+{
+  "title": "Steven Grady",
+  "story": [
+    {
+      "type": "html",
+      "text": "<i>Steven, [[Are You There]]? almost [[Orphan Page]], 2004-11-16, last edit 2001-07-24</i>",
+      "id": "2fb2078c85ce87bcccc6127732305535"
+    },
+    {
+      "type": "html",
+      "text": "\nmailto:grady@xcf.berkeley.edu",
+      "id": "99ef3742e01b124d2a5d73edf7f08975"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "98e400e0f9cef5dd6ec6088f73cefdd3"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "0a6faac4a46a3313e63118c22bdfc4ee"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevenGrady c2.com]",
+      "id": "c707eb59d97121022a8535b9d534c87f"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1100589369000,
+      "id": "e488ad592790e6764cfd840ccd0b9dbc",
+      "type": "create",
+      "item": {
+        "title": "Steven Grady",
+        "story": [
+          {
+            "type": "html",
+            "text": "<i>Steven, [[Are You There]]? almost [[Orphan Page]], 2004-11-16, last edit 2001-07-24</i>",
+            "id": "2fb2078c85ce87bcccc6127732305535"
+          },
+          {
+            "type": "html",
+            "text": "\nmailto:grady@xcf.berkeley.edu",
+            "id": "99ef3742e01b124d2a5d73edf7f08975"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "98e400e0f9cef5dd6ec6088f73cefdd3"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "0a6faac4a46a3313e63118c22bdfc4ee"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevenGrady c2.com]",
+            "id": "c707eb59d97121022a8535b9d534c87f"
+          }
+        ]
+      }
+    }
+  ]
+}
