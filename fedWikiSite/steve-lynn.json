@@ -1,0 +1,67 @@
+{
+  "title": "Steve Lynn",
+  "story": [
+    {
+      "type": "html",
+      "text": "<i>Steve, [[Are You There]]? [October 20, 2003 - June 27, 2000]</i>",
+      "id": "228b03225c0d3eddcb3bac918eee249b"
+    },
+    {
+      "type": "html",
+      "text": "\nAn internet nerd! 5 years Computer experience and 3 years on the net. computer repair, build and Web design. Contact Stelig610@Netscape.Net",
+      "id": "5bef56398982212133268aa5696d06e0"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "1e18c41e1159d473a3cf27a270be6053"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "c68215e2e76f04b050515c77d2ef2d35"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveLynn c2.com]",
+      "id": "d10a55df87d60a7f216571da70d6ebfb"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1066672474000,
+      "id": "3f8bb6090db6eff6f550d3b28bd31c5d",
+      "type": "create",
+      "item": {
+        "title": "Steve Lynn",
+        "story": [
+          {
+            "type": "html",
+            "text": "<i>Steve, [[Are You There]]? [October 20, 2003 - June 27, 2000]</i>",
+            "id": "228b03225c0d3eddcb3bac918eee249b"
+          },
+          {
+            "type": "html",
+            "text": "\nAn internet nerd! 5 years Computer experience and 3 years on the net. computer repair, build and Web design. Contact Stelig610@Netscape.Net",
+            "id": "5bef56398982212133268aa5696d06e0"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "1e18c41e1159d473a3cf27a270be6053"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "c68215e2e76f04b050515c77d2ef2d35"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveLynn c2.com]",
+            "id": "d10a55df87d60a7f216571da70d6ebfb"
+          }
+        ]
+      }
+    }
+  ]
+}
