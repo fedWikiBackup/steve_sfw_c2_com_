@@ -1,0 +1,77 @@
+{
+  "title": "Steve Plendl",
+  "story": [
+    {
+      "type": "html",
+      "text": "I am a student at UW-Stout.  This is for a summer class.",
+      "id": "c152017f1e31b672eea82c667d6cd884"
+    },
+    {
+      "type": "html",
+      "text": "\nI live in Chippewa county.",
+      "id": "3f540ca01604219d6c37e479617aadec"
+    },
+    {
+      "type": "html",
+      "text": "<i>In that case, Welcome to Wiki, Steve.  Your original link was in the sandbox with the label of test, so that is why it was slated for deletion. [7-10-2009] [[Flying Visitor]]?</i>",
+      "id": "90632dde7516f3c2869a47094429c84d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "6b2949b39b1eba00cec232c1a0d345b9"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "24a7c62e54c71be6fd043c2605c5b18c"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevePlendl c2.com]",
+      "id": "65937dd1a3b53e5cf730ceec4455fce0"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1247286475000,
+      "id": "29271c6d4c5b649c3a34a83bb0065cd4",
+      "type": "create",
+      "item": {
+        "title": "Steve Plendl",
+        "story": [
+          {
+            "type": "html",
+            "text": "I am a student at UW-Stout.  This is for a summer class.",
+            "id": "c152017f1e31b672eea82c667d6cd884"
+          },
+          {
+            "type": "html",
+            "text": "\nI live in Chippewa county.",
+            "id": "3f540ca01604219d6c37e479617aadec"
+          },
+          {
+            "type": "html",
+            "text": "<i>In that case, Welcome to Wiki, Steve.  Your original link was in the sandbox with the label of test, so that is why it was slated for deletion. [7-10-2009] [[Flying Visitor]]?</i>",
+            "id": "90632dde7516f3c2869a47094429c84d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "6b2949b39b1eba00cec232c1a0d345b9"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "24a7c62e54c71be6fd043c2605c5b18c"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevePlendl c2.com]",
+            "id": "65937dd1a3b53e5cf730ceec4455fce0"
+          }
+        ]
+      }
+    }
+  ]
+}
