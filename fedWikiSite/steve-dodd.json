@@ -1,0 +1,87 @@
+{
+  "title": "Steve Dodd",
+  "story": [
+    {
+      "type": "html",
+      "text": "Recovering programmer; my interest in [[Extreme Programming]] lead me to the [[Programmers Stone]], and thence on to [[Reciprocality Theory]]. Currently practicising [[Tao Ism]].",
+      "id": "df4a09f73690472f73f0e66205bd3787"
+    },
+    {
+      "type": "html",
+      "text": " Home page: [http://www.loth.org.uk/ www.loth.org.uk]",
+      "id": "503be58d904660660ef135492d6b6aae"
+    },
+    {
+      "type": "html",
+      "text": " Blog: [http://www.livejournal.com/users/acheron_hades/ www.livejournal.com]",
+      "id": "8ee2bf948ad6b0f264db53ac00871c37"
+    },
+    {
+      "type": "html",
+      "text": "\nIf you want to get in touch, drop me a comment on [[Live Journal]]..",
+      "id": "4ca6d1aa94aa58e20942880dddc42cb0"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "643b66c2d91570af1b524eddba28684a"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "ca82f031d37a5dc2383baf581e6c2703"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveDodd c2.com]",
+      "id": "de414f530285929a65ff108023f4f62a"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1112524297000,
+      "id": "f7a8f2f24c6dd4750cf06f53502fdb1d",
+      "type": "create",
+      "item": {
+        "title": "Steve Dodd",
+        "story": [
+          {
+            "type": "html",
+            "text": "Recovering programmer; my interest in [[Extreme Programming]] lead me to the [[Programmers Stone]], and thence on to [[Reciprocality Theory]]. Currently practicising [[Tao Ism]].",
+            "id": "df4a09f73690472f73f0e66205bd3787"
+          },
+          {
+            "type": "html",
+            "text": " Home page: [http://www.loth.org.uk/ www.loth.org.uk]",
+            "id": "503be58d904660660ef135492d6b6aae"
+          },
+          {
+            "type": "html",
+            "text": " Blog: [http://www.livejournal.com/users/acheron_hades/ www.livejournal.com]",
+            "id": "8ee2bf948ad6b0f264db53ac00871c37"
+          },
+          {
+            "type": "html",
+            "text": "\nIf you want to get in touch, drop me a comment on [[Live Journal]]..",
+            "id": "4ca6d1aa94aa58e20942880dddc42cb0"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "643b66c2d91570af1b524eddba28684a"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "ca82f031d37a5dc2383baf581e6c2703"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveDodd c2.com]",
+            "id": "de414f530285929a65ff108023f4f62a"
+          }
+        ]
+      }
+    }
+  ]
+}
