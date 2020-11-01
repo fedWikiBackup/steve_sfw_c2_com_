@@ -1,0 +1,57 @@
+{
+  "title": "Steve Heller",
+  "story": [
+    {
+      "type": "html",
+      "text": "Steve Heller, programmer and author. See [http://www.steveheller.com www.steveheller.com] for details.",
+      "id": "ab3814417a912db2a875b86362729e82"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "994733ae14b46dd0a4922c91befb91c0"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "1327a698ce7d4e30fba3ec0d375705d7"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveHeller c2.com]",
+      "id": "39219f32f59d8e2a7ec766bce54f186b"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1208010705000,
+      "id": "a561cf9e801d008d0b4f55ebe738e9b4",
+      "type": "create",
+      "item": {
+        "title": "Steve Heller",
+        "story": [
+          {
+            "type": "html",
+            "text": "Steve Heller, programmer and author. See [http://www.steveheller.com www.steveheller.com] for details.",
+            "id": "ab3814417a912db2a875b86362729e82"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "994733ae14b46dd0a4922c91befb91c0"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "1327a698ce7d4e30fba3ec0d375705d7"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveHeller c2.com]",
+            "id": "39219f32f59d8e2a7ec766bce54f186b"
+          }
+        ]
+      }
+    }
+  ]
+}
