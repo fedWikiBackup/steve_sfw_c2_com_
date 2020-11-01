@@ -1,0 +1,97 @@
+{
+  "title": "Steve Maguire",
+  "story": [
+    {
+      "type": "html",
+      "text": "[[Steve Maguire]] - Former Microsoft developer - is the author of several books on developing software that is bug-Free.",
+      "id": "3224066367c5b6d720845237f14fdaed"
+    },
+    {
+      "type": "html",
+      "text": "\nWinner of the 1994 Software Development Productivity Award",
+      "id": "2b9d1cd76c1bc1f00940e4f28fb8f92d"
+    },
+    {
+      "type": "html",
+      "text": "<b>Books</b>",
+      "id": "3569607d6d9e09bbb2efe7fbc4a68ec8"
+    },
+    {
+      "type": "html",
+      "text": "[[Debugging The Development Process]] ",
+      "id": "e92dec900588cfa471826fafb69d3c6b"
+    },
+    {
+      "type": "html",
+      "text": "[[Writing Solid Code]]",
+      "id": "941b34603be8941281166a053ce098c3"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "bb88e4b48ed6892ad8f2d31bc0d6b2fc"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Author]]",
+      "id": "8192d990f8c94f82a013e28d3d2f95f8"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveMaguire c2.com]",
+      "id": "5bc616c3c96915939d14117761ea424c"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1045912890000,
+      "id": "54086c5f60b835c6e8a1157c3c3cd50f",
+      "type": "create",
+      "item": {
+        "title": "Steve Maguire",
+        "story": [
+          {
+            "type": "html",
+            "text": "[[Steve Maguire]] - Former Microsoft developer - is the author of several books on developing software that is bug-Free.",
+            "id": "3224066367c5b6d720845237f14fdaed"
+          },
+          {
+            "type": "html",
+            "text": "\nWinner of the 1994 Software Development Productivity Award",
+            "id": "2b9d1cd76c1bc1f00940e4f28fb8f92d"
+          },
+          {
+            "type": "html",
+            "text": "<b>Books</b>",
+            "id": "3569607d6d9e09bbb2efe7fbc4a68ec8"
+          },
+          {
+            "type": "html",
+            "text": "[[Debugging The Development Process]] ",
+            "id": "e92dec900588cfa471826fafb69d3c6b"
+          },
+          {
+            "type": "html",
+            "text": "[[Writing Solid Code]]",
+            "id": "941b34603be8941281166a053ce098c3"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "bb88e4b48ed6892ad8f2d31bc0d6b2fc"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Author]]",
+            "id": "8192d990f8c94f82a013e28d3d2f95f8"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveMaguire c2.com]",
+            "id": "5bc616c3c96915939d14117761ea424c"
+          }
+        ]
+      }
+    }
+  ]
+}
