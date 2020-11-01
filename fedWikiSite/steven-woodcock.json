@@ -1,0 +1,97 @@
+{
+  "title": "Steven Woodcock",
+  "story": [
+    {
+      "type": "html",
+      "text": "Steven (aka ferretman) is a (the?) demigod of Artificial Intelligence in Games.",
+      "id": "c83fb798a658d4908c2b3dd52a3f0584"
+    },
+    {
+      "type": "html",
+      "text": "\nHe lives at [http://www.gameai.com www.gameai.com].",
+      "id": "6982b5e3464a6e0a706347947f187a67"
+    },
+    {
+      "type": "html",
+      "text": "\nI met him on news:comp.ai.games when I was still in high school. This eventually let to the great fortune of collaborating with him and others on a book on Game AI for [[Wrox Publishing]]. While it was never published, it was an extremely rewarding experience.",
+      "id": "3a6cc1cbbf8612c1f99e05e09d3bfbc0"
+    },
+    {
+      "type": "html",
+      "text": "\nSteven has taught me a lot more than he may know.",
+      "id": "9325ac752696721cb1ab05af8ad6019a"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Sunir Shah]]",
+      "id": "cfd6a4e56d5f7043d8d5649865f8b1f3"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "258242f2572d54d277e8113a2e4b61d7"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Person]]",
+      "id": "69e1b28ffd79f9ff879d37de34abf177"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevenWoodcock c2.com]",
+      "id": "04d41a1d7e66c12888352c46f63056fb"
+    }
+  ],
+  "journal": [
+    {
+      "date": 984259327000,
+      "id": "1d077636e666223fbc70a9a32e4ddb5b",
+      "type": "create",
+      "item": {
+        "title": "Steven Woodcock",
+        "story": [
+          {
+            "type": "html",
+            "text": "Steven (aka ferretman) is a (the?) demigod of Artificial Intelligence in Games.",
+            "id": "c83fb798a658d4908c2b3dd52a3f0584"
+          },
+          {
+            "type": "html",
+            "text": "\nHe lives at [http://www.gameai.com www.gameai.com].",
+            "id": "6982b5e3464a6e0a706347947f187a67"
+          },
+          {
+            "type": "html",
+            "text": "\nI met him on news:comp.ai.games when I was still in high school. This eventually let to the great fortune of collaborating with him and others on a book on Game AI for [[Wrox Publishing]]. While it was never published, it was an extremely rewarding experience.",
+            "id": "3a6cc1cbbf8612c1f99e05e09d3bfbc0"
+          },
+          {
+            "type": "html",
+            "text": "\nSteven has taught me a lot more than he may know.",
+            "id": "9325ac752696721cb1ab05af8ad6019a"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Sunir Shah]]",
+            "id": "cfd6a4e56d5f7043d8d5649865f8b1f3"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "258242f2572d54d277e8113a2e4b61d7"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Person]]",
+            "id": "69e1b28ffd79f9ff879d37de34abf177"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevenWoodcock c2.com]",
+            "id": "04d41a1d7e66c12888352c46f63056fb"
+          }
+        ]
+      }
+    }
+  ]
+}
