@@ -1,0 +1,37 @@
+{
+  "title": "Steve Cooper",
+  "story": [
+    {
+      "type": "html",
+      "text": "[[Justa Programmer]], with a website ([http://www.stevecooper.org www.stevecooper.org]) if you're interested.",
+      "id": "80a44ccf5b01ac4636d99e14ee89b297"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveCooper c2.com]",
+      "id": "b4c114ddea27da987a0e2f025ca310ef"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1003936062000,
+      "id": "5f9b91a825cc3e2326a8aca7779db086",
+      "type": "create",
+      "item": {
+        "title": "Steve Cooper",
+        "story": [
+          {
+            "type": "html",
+            "text": "[[Justa Programmer]], with a website ([http://www.stevecooper.org www.stevecooper.org]) if you're interested.",
+            "id": "80a44ccf5b01ac4636d99e14ee89b297"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveCooper c2.com]",
+            "id": "b4c114ddea27da987a0e2f025ca310ef"
+          }
+        ]
+      }
+    }
+  ]
+}
