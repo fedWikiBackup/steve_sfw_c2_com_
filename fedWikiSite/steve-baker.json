@@ -1,0 +1,97 @@
+{
+  "title": "Steve Baker",
+  "story": [
+    {
+      "type": "html",
+      "text": "First, I must express my gratitude to [[Ward Cunningham]] for sharing Wiki with us.",
+      "id": "4a216f35864d3b48639a76e31b7b59e4"
+    },
+    {
+      "type": "html",
+      "text": "\nSecond, I must procrastinate, and note that I will return later to finish this.",
+      "id": "017da84f966ed2bc02922beebd63ac8c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "69686f131a551f6c36adde01878149d3"
+    },
+    {
+      "type": "html",
+      "text": " 2006-01-18 [[Are You There]]? Content-free [[Orphan Page]] ...",
+      "id": "0add264426d223628df6fa169d269a08"
+    },
+    {
+      "type": "html",
+      "text": " 2003-07-12 Last edit",
+      "id": "03f0aa32a8b87f16b6fa230e90e7b01b"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "69686f131a551f6c36adde01878149d3"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "7e56bf0f7f9755e0c7f15854c906c884"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveBaker c2.com]",
+      "id": "5e3f450623977a8d189f1c53e33598f9"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1137590852000,
+      "id": "7b63a40cdfb03e2ceab61a7f68aa8eae",
+      "type": "create",
+      "item": {
+        "title": "Steve Baker",
+        "story": [
+          {
+            "type": "html",
+            "text": "First, I must express my gratitude to [[Ward Cunningham]] for sharing Wiki with us.",
+            "id": "4a216f35864d3b48639a76e31b7b59e4"
+          },
+          {
+            "type": "html",
+            "text": "\nSecond, I must procrastinate, and note that I will return later to finish this.",
+            "id": "017da84f966ed2bc02922beebd63ac8c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "69686f131a551f6c36adde01878149d3"
+          },
+          {
+            "type": "html",
+            "text": " 2006-01-18 [[Are You There]]? Content-free [[Orphan Page]] ...",
+            "id": "0add264426d223628df6fa169d269a08"
+          },
+          {
+            "type": "html",
+            "text": " 2003-07-12 Last edit",
+            "id": "03f0aa32a8b87f16b6fa230e90e7b01b"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "69686f131a551f6c36adde01878149d3"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "7e56bf0f7f9755e0c7f15854c906c884"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveBaker c2.com]",
+            "id": "5e3f450623977a8d189f1c53e33598f9"
+          }
+        ]
+      }
+    }
+  ]
+}
