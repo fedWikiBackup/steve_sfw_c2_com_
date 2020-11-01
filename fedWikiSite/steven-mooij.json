@@ -1,0 +1,77 @@
+{
+  "title": "Steven Mooij",
+  "story": [
+    {
+      "type": "html",
+      "text": "So this is my homepage in [[Wiki Wiki Web]]. Since I'm usually more interested in finding things out than building large hompages, it's probably not going to be a big story here.",
+      "id": "6b48d465fc3840cdc717fe682c7ef502"
+    },
+    {
+      "type": "html",
+      "text": "<i>Welcome to wiki.</i>\nty.",
+      "id": "36635b6e95f20b886ccce23c7012b799"
+    },
+    {
+      "type": "html",
+      "text": "\nHELLO!",
+      "id": "b1fe6d555664396a2b68fe7208e9945c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "2a53eca86ef27357f758289e0f2c1d44"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "4f04e5928efe7e80e7952ab5b6c1f5a8"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevenMooij c2.com]",
+      "id": "33c6665a8e8c2fd6d6f1b6061ce76987"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1084058174000,
+      "id": "db705aa6a992e7edd16ca5a302f6fd66",
+      "type": "create",
+      "item": {
+        "title": "Steven Mooij",
+        "story": [
+          {
+            "type": "html",
+            "text": "So this is my homepage in [[Wiki Wiki Web]]. Since I'm usually more interested in finding things out than building large hompages, it's probably not going to be a big story here.",
+            "id": "6b48d465fc3840cdc717fe682c7ef502"
+          },
+          {
+            "type": "html",
+            "text": "<i>Welcome to wiki.</i>\nty.",
+            "id": "36635b6e95f20b886ccce23c7012b799"
+          },
+          {
+            "type": "html",
+            "text": "\nHELLO!",
+            "id": "b1fe6d555664396a2b68fe7208e9945c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "2a53eca86ef27357f758289e0f2c1d44"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "4f04e5928efe7e80e7952ab5b6c1f5a8"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevenMooij c2.com]",
+            "id": "33c6665a8e8c2fd6d6f1b6061ce76987"
+          }
+        ]
+      }
+    }
+  ]
+}
