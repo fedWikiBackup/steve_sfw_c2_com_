@@ -1,0 +1,47 @@
+{
+  "title": "Steven Fraser",
+  "story": [
+    {
+      "type": "html",
+      "text": "Steven Fraser (sdfraser @ acm.org) is a senior staff member at QUALCOMM's Learning Center in San Diego, California. From 2002 until 2005, he was an independent consultant in Santa Clara California and is recognized for organizing and hosting topical panels at OOPSLA and the XP series of conferences. He serves as the Marketing/Sponsorship Chair for XP2005. ",
+      "id": "9d8f63af9cd6e2aebdba8b8b49a9fd85"
+    },
+    {
+      "type": "html",
+      "text": "\nPrevious to 2002 Steve held a variety of diverse software technology program management roles at Nortel Networks including: Process Architect, Senior Manager (Disruptive Technology), Process Engineering Advisor, and Software Reuse Evangelist. In 1994 he spent a year as a Visiting Scientist at the Software Engineering Institute (SEI) collaborating with the Application of Software Models project on the development of team-based domain analysis techniques. Steve is an avid operatunist and videographer.",
+      "id": "46b27997bdd117da899e38255a298192"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevenFraser c2.com]",
+      "id": "3924041c888a03ce23ba0fa21c72c18d"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1114641514000,
+      "id": "322f96e5c71f2ee988392bdc334efac1",
+      "type": "create",
+      "item": {
+        "title": "Steven Fraser",
+        "story": [
+          {
+            "type": "html",
+            "text": "Steven Fraser (sdfraser @ acm.org) is a senior staff member at QUALCOMM's Learning Center in San Diego, California. From 2002 until 2005, he was an independent consultant in Santa Clara California and is recognized for organizing and hosting topical panels at OOPSLA and the XP series of conferences. He serves as the Marketing/Sponsorship Chair for XP2005. ",
+            "id": "9d8f63af9cd6e2aebdba8b8b49a9fd85"
+          },
+          {
+            "type": "html",
+            "text": "\nPrevious to 2002 Steve held a variety of diverse software technology program management roles at Nortel Networks including: Process Architect, Senior Manager (Disruptive Technology), Process Engineering Advisor, and Software Reuse Evangelist. In 1994 he spent a year as a Visiting Scientist at the Software Engineering Institute (SEI) collaborating with the Application of Software Models project on the development of team-based domain analysis techniques. Steve is an avid operatunist and videographer.",
+            "id": "46b27997bdd117da899e38255a298192"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevenFraser c2.com]",
+            "id": "3924041c888a03ce23ba0fa21c72c18d"
+          }
+        ]
+      }
+    }
+  ]
+}
