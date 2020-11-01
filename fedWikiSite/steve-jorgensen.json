@@ -1,0 +1,77 @@
+{
+  "title": "Steve Jorgensen",
+  "story": [
+    {
+      "type": "html",
+      "text": "[[Steve Jorgensen]] works as an Agile [[Ruby On Rails]] programmer for [[Renewable Funding]] in [[Portland Oregon]], and is also taking on moonlighting clients for Rails and other kinds of Web application development and maintenance.",
+      "id": "7ff94a401ea3ae113e773fb5245adea7"
+    },
+    {
+      "type": "html",
+      "text": "\nSteve is currently interested in techniques for achieving long-term, sustainable development in Rails by applying techniques such as Hexagonal Architecture. He is also engaged in exploration of the virtues and vices of various forms of the [[Tell Dont Ask]] principle.",
+      "id": "b7b01932648e5d9ff61dd3d6b271fba4"
+    },
+    {
+      "type": "html",
+      "text": "\nSteve is a frequent contributor of answers on [[Stack Overflow]] and is the author of [[Vb Lite Unit]].  His professional Web site is [http://stevej.name stevej.name], and his technical blog is at [http://techblog.stevej.name techblog.stevej.name].",
+      "id": "f47ec2316dd4b5d5b65087b096256281"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "67a4f08906966be840fc103cf574c184"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "e60a39b43d493a0fdc7cfd538d5d4c3c"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveJorgensen c2.com]",
+      "id": "b917707a9c5b950a69e821103699cc6d"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1346611323000,
+      "id": "98c3304bc2f268a45b281c9058b1ee8d",
+      "type": "create",
+      "item": {
+        "title": "Steve Jorgensen",
+        "story": [
+          {
+            "type": "html",
+            "text": "[[Steve Jorgensen]] works as an Agile [[Ruby On Rails]] programmer for [[Renewable Funding]] in [[Portland Oregon]], and is also taking on moonlighting clients for Rails and other kinds of Web application development and maintenance.",
+            "id": "7ff94a401ea3ae113e773fb5245adea7"
+          },
+          {
+            "type": "html",
+            "text": "\nSteve is currently interested in techniques for achieving long-term, sustainable development in Rails by applying techniques such as Hexagonal Architecture. He is also engaged in exploration of the virtues and vices of various forms of the [[Tell Dont Ask]] principle.",
+            "id": "b7b01932648e5d9ff61dd3d6b271fba4"
+          },
+          {
+            "type": "html",
+            "text": "\nSteve is a frequent contributor of answers on [[Stack Overflow]] and is the author of [[Vb Lite Unit]].  His professional Web site is [http://stevej.name stevej.name], and his technical blog is at [http://techblog.stevej.name techblog.stevej.name].",
+            "id": "f47ec2316dd4b5d5b65087b096256281"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "67a4f08906966be840fc103cf574c184"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "e60a39b43d493a0fdc7cfd538d5d4c3c"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveJorgensen c2.com]",
+            "id": "b917707a9c5b950a69e821103699cc6d"
+          }
+        ]
+      }
+    }
+  ]
+}
