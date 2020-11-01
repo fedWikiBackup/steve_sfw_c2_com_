@@ -1,0 +1,77 @@
+{
+  "title": "Ian Stevens",
+  "story": [
+    {
+      "type": "html",
+      "text": "Hi there Ian - Are you going to tell us about yourself?",
+      "id": "ec5bd09785b797f2f6266a7156ed9ebc"
+    },
+    {
+      "type": "html",
+      "text": "<i>This feels a little like Tom Riddle's Diary - you write something, the ink is absorbed into the page, disappears, then reappears as different text ...</i> -- Anon",
+      "id": "656f189327f3d254170d32ac4237db7b"
+    },
+    {
+      "type": "html",
+      "text": "\nLast edited 2003/01/17 - [[Content Free]] [[Orphan Page]].  [[Are You There]]?",
+      "id": "5b6b5a9bcffd6adcdbe0da92062813ab"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "c1328ff6c6c460bf30a730d41d47ca50"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "5789ee320181e29fdc487a5b21b8cf44"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?IanStevens c2.com]",
+      "id": "9bc6e7f0723d49169cded2bbcee48345"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1099922914000,
+      "id": "c145640ad340704971f39bcd3b957f45",
+      "type": "create",
+      "item": {
+        "title": "Ian Stevens",
+        "story": [
+          {
+            "type": "html",
+            "text": "Hi there Ian - Are you going to tell us about yourself?",
+            "id": "ec5bd09785b797f2f6266a7156ed9ebc"
+          },
+          {
+            "type": "html",
+            "text": "<i>This feels a little like Tom Riddle's Diary - you write something, the ink is absorbed into the page, disappears, then reappears as different text ...</i> -- Anon",
+            "id": "656f189327f3d254170d32ac4237db7b"
+          },
+          {
+            "type": "html",
+            "text": "\nLast edited 2003/01/17 - [[Content Free]] [[Orphan Page]].  [[Are You There]]?",
+            "id": "5b6b5a9bcffd6adcdbe0da92062813ab"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "c1328ff6c6c460bf30a730d41d47ca50"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "5789ee320181e29fdc487a5b21b8cf44"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?IanStevens c2.com]",
+            "id": "9bc6e7f0723d49169cded2bbcee48345"
+          }
+        ]
+      }
+    }
+  ]
+}
