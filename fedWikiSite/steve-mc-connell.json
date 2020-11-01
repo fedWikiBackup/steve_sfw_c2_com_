@@ -1,0 +1,117 @@
+{
+  "title": "Steve Mc Connell",
+  "story": [
+    {
+      "type": "html",
+      "text": "[http://www.stevemcconnell.com/ www.stevemcconnell.com]",
+      "id": "0b9ecd4880fcca3a3552a3412cda127b"
+    },
+    {
+      "type": "html",
+      "text": "\nSteve founded Construx Software Builders, Inc. Steve was also Editor-in-Chief of [[Ieee Software]] from 1998 to 2002.",
+      "id": "9ce6a7704396129f250436972ff8d464"
+    },
+    {
+      "type": "html",
+      "text": "\nHe also wrote [[Code Complete]] (a bible), [[Rapid Development]] (another bible), [[Software Project Survival Guide]] and [[After The Gold Rush]] (total crap).",
+      "id": "5aefc0971087f8f9770cdb5560a1101d"
+    },
+    {
+      "type": "html",
+      "text": "\nReaders of [[Software Development Magazine]] voted Steve the third most influential person in software (coming after [[Bill Gates]] and [[Linus Torvalds]]).",
+      "id": "832e14849fcd27aa3882304d32893525"
+    },
+    {
+      "type": "html",
+      "text": "\nNot to be confused with [[Steve Maguire]], another author and former [[Micro Soft]] developer.",
+      "id": "c7b5506e2f76288b643151c7ff1b7b3d"
+    },
+    {
+      "type": "html",
+      "text": "\nThe draft of the 2nd edition of [[After The Gold Rush]] is up on his website at: [http://www.stevemcconnell.com/gr2.htm www.stevemcconnell.com]",
+      "id": "0ca566dfe824b70e9056846acc38f823"
+    },
+    {
+      "type": "html",
+      "text": "<i>After The Gold Rush</i> has been updated and re-released with the title <i>[[Professional Software Development]]</i>.",
+      "id": "5e24ad288ae52702579268c2591b04ad"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "54fec368689b891eb7ca9920d721dda0"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Author]] [[Category Person]]",
+      "id": "1528078f0ab94890fc7ac2748160affb"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveMcConnell c2.com]",
+      "id": "38cae45009588dfd1a4a4bab14cc57d5"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1103431168000,
+      "id": "4c2278d798c040fc3f1f58b4b0fed136",
+      "type": "create",
+      "item": {
+        "title": "Steve Mc Connell",
+        "story": [
+          {
+            "type": "html",
+            "text": "[http://www.stevemcconnell.com/ www.stevemcconnell.com]",
+            "id": "0b9ecd4880fcca3a3552a3412cda127b"
+          },
+          {
+            "type": "html",
+            "text": "\nSteve founded Construx Software Builders, Inc. Steve was also Editor-in-Chief of [[Ieee Software]] from 1998 to 2002.",
+            "id": "9ce6a7704396129f250436972ff8d464"
+          },
+          {
+            "type": "html",
+            "text": "\nHe also wrote [[Code Complete]] (a bible), [[Rapid Development]] (another bible), [[Software Project Survival Guide]] and [[After The Gold Rush]] (total crap).",
+            "id": "5aefc0971087f8f9770cdb5560a1101d"
+          },
+          {
+            "type": "html",
+            "text": "\nReaders of [[Software Development Magazine]] voted Steve the third most influential person in software (coming after [[Bill Gates]] and [[Linus Torvalds]]).",
+            "id": "832e14849fcd27aa3882304d32893525"
+          },
+          {
+            "type": "html",
+            "text": "\nNot to be confused with [[Steve Maguire]], another author and former [[Micro Soft]] developer.",
+            "id": "c7b5506e2f76288b643151c7ff1b7b3d"
+          },
+          {
+            "type": "html",
+            "text": "\nThe draft of the 2nd edition of [[After The Gold Rush]] is up on his website at: [http://www.stevemcconnell.com/gr2.htm www.stevemcconnell.com]",
+            "id": "0ca566dfe824b70e9056846acc38f823"
+          },
+          {
+            "type": "html",
+            "text": "<i>After The Gold Rush</i> has been updated and re-released with the title <i>[[Professional Software Development]]</i>.",
+            "id": "5e24ad288ae52702579268c2591b04ad"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "54fec368689b891eb7ca9920d721dda0"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Author]] [[Category Person]]",
+            "id": "1528078f0ab94890fc7ac2748160affb"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveMcConnell c2.com]",
+            "id": "38cae45009588dfd1a4a4bab14cc57d5"
+          }
+        ]
+      }
+    }
+  ]
+}
