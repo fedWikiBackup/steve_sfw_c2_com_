@@ -1,0 +1,197 @@
+{
+  "title": "Steve Russo",
+  "story": [
+    {
+      "type": "html",
+      "text": "Hello, I'm Steve, and I'm new to this Wiki thing. I am still a bit of a skeptic, but I am always one to give new things a try.",
+      "id": "51d0d360aa8b6bb9a4626958251a7e29"
+    },
+    {
+      "type": "html",
+      "text": "\nI'm an IT Specialist, and enjoy programming as a hobby as well. In my employment, I am involved in writing workflow/financial reports in ASP, SQL Server, VB, Crystal Reports, PHP and Perl. I'm also responsible for everything else technologically-oriented within my company. I'm also an avid Linux user and enjoy programming in many other languages in my spare time, especially C/C++ and Java.",
+      "id": "d754952c8d73ea373b2d1a3e36ad8a46"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0446db24dc698a6fec95a587a72a79c7"
+    },
+    {
+      "type": "html",
+      "text": "[[Advice To Newcomers]]",
+      "id": "6ee9220b541ed8f8e80587ac3bfba587"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0446db24dc698a6fec95a587a72a79c7"
+    },
+    {
+      "type": "html",
+      "text": "Are you a programmer?",
+      "id": "047cf73f592fd2b5bc89a909807f7458"
+    },
+    {
+      "type": "html",
+      "text": "<i>Yes, why?</i>",
+      "id": "027a88c950517045fef02c7b800c1142"
+    },
+    {
+      "type": "html",
+      "text": "\nMake a page with your name, tell us more about you and welcome! You have to be a programmer or to be involved in programming somehow.",
+      "id": "ab353e19ac15bf2c203f05e5fb26e809"
+    },
+    {
+      "type": "html",
+      "text": "<i>Do you mean that you have to be a programmer to post here?</i>",
+      "id": "75c79b5e832192c7199bcb053ffdeb82"
+    },
+    {
+      "type": "html",
+      "text": "\nYes, the subjects are related to programming. (Of course, no-one insists you are a programmer, but it does help a lot.)",
+      "id": "3d91197a338fdc259ed326355df12a97"
+    },
+    {
+      "type": "html",
+      "text": "<i>This Wiki concept is quite bizarre. I happened to stumble upon it a few months ago while playing around with Mambo, and decided to take a closer look tonight while I was bored. This Wiki stuff is really fascinating for those of us with short attention spans. With all of the links to different subjects embedded into each page, I find myself skipping from subject to subject while I'm reading... Maybe this is just the initial \"shock\" of the whole Wiki thing, though.</i>",
+      "id": "f42190e2748a46e742aa8e5ab5691f75"
+    },
+    {
+      "type": "html",
+      "text": "<i>I first heard of Wiki through the documentation at [http://www.mamboserver.com www.mamboserver.com] a few months ago. Their documentation system </i>was<i> wiki-based (I don't know if it still is.) At the time, I really didn't understand the concept, and didn't spend much time trying to. Since then, I've accidentally wound up browsing to a few Wiki sites while searching for other things. Finally, I just decided to find out what it was all about, and I typed \"Wiki\" into Google and wound up here.</i>",
+      "id": "5020f24c6558a1fc4060f2e5bf96990d"
+    },
+    {
+      "type": "html",
+      "text": "<i>I'm playing around with [[Casey West]]'s short Perl Wiki - [[Sig Wik]] (I love those obfuscated programs!) right now. I can't get it to save my text, though... I think it is just a permissions problem.</i>",
+      "id": "935fcf5e4e09e0a3c05e081875c87c06"
+    },
+    {
+      "type": "html",
+      "text": "<i>Ahh.. just got it to work. Fascinating that such a tiny program could have so much functionality!!</i>",
+      "id": "9b13ef9bdd0e04acc2be85ce1cae4ead"
+    },
+    {
+      "type": "html",
+      "text": "<i>Well, I'm off to bed. I've gotta stop myself or I'll never get any sleep tonight. Take care! Steve</i>",
+      "id": "1e8de4ca6ce39690204796c5a21fbe8f"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0446db24dc698a6fec95a587a72a79c7"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "103f8fec357714a9fcc495fbfe9eeed7"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveRusso c2.com]",
+      "id": "638b9cfd1880d5ad1713d4c45a46744e"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1143809710000,
+      "id": "7a588c241e515a5e641dd5490e00d33c",
+      "type": "create",
+      "item": {
+        "title": "Steve Russo",
+        "story": [
+          {
+            "type": "html",
+            "text": "Hello, I'm Steve, and I'm new to this Wiki thing. I am still a bit of a skeptic, but I am always one to give new things a try.",
+            "id": "51d0d360aa8b6bb9a4626958251a7e29"
+          },
+          {
+            "type": "html",
+            "text": "\nI'm an IT Specialist, and enjoy programming as a hobby as well. In my employment, I am involved in writing workflow/financial reports in ASP, SQL Server, VB, Crystal Reports, PHP and Perl. I'm also responsible for everything else technologically-oriented within my company. I'm also an avid Linux user and enjoy programming in many other languages in my spare time, especially C/C++ and Java.",
+            "id": "d754952c8d73ea373b2d1a3e36ad8a46"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0446db24dc698a6fec95a587a72a79c7"
+          },
+          {
+            "type": "html",
+            "text": "[[Advice To Newcomers]]",
+            "id": "6ee9220b541ed8f8e80587ac3bfba587"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0446db24dc698a6fec95a587a72a79c7"
+          },
+          {
+            "type": "html",
+            "text": "Are you a programmer?",
+            "id": "047cf73f592fd2b5bc89a909807f7458"
+          },
+          {
+            "type": "html",
+            "text": "<i>Yes, why?</i>",
+            "id": "027a88c950517045fef02c7b800c1142"
+          },
+          {
+            "type": "html",
+            "text": "\nMake a page with your name, tell us more about you and welcome! You have to be a programmer or to be involved in programming somehow.",
+            "id": "ab353e19ac15bf2c203f05e5fb26e809"
+          },
+          {
+            "type": "html",
+            "text": "<i>Do you mean that you have to be a programmer to post here?</i>",
+            "id": "75c79b5e832192c7199bcb053ffdeb82"
+          },
+          {
+            "type": "html",
+            "text": "\nYes, the subjects are related to programming. (Of course, no-one insists you are a programmer, but it does help a lot.)",
+            "id": "3d91197a338fdc259ed326355df12a97"
+          },
+          {
+            "type": "html",
+            "text": "<i>This Wiki concept is quite bizarre. I happened to stumble upon it a few months ago while playing around with Mambo, and decided to take a closer look tonight while I was bored. This Wiki stuff is really fascinating for those of us with short attention spans. With all of the links to different subjects embedded into each page, I find myself skipping from subject to subject while I'm reading... Maybe this is just the initial \"shock\" of the whole Wiki thing, though.</i>",
+            "id": "f42190e2748a46e742aa8e5ab5691f75"
+          },
+          {
+            "type": "html",
+            "text": "<i>I first heard of Wiki through the documentation at [http://www.mamboserver.com www.mamboserver.com] a few months ago. Their documentation system </i>was<i> wiki-based (I don't know if it still is.) At the time, I really didn't understand the concept, and didn't spend much time trying to. Since then, I've accidentally wound up browsing to a few Wiki sites while searching for other things. Finally, I just decided to find out what it was all about, and I typed \"Wiki\" into Google and wound up here.</i>",
+            "id": "5020f24c6558a1fc4060f2e5bf96990d"
+          },
+          {
+            "type": "html",
+            "text": "<i>I'm playing around with [[Casey West]]'s short Perl Wiki - [[Sig Wik]] (I love those obfuscated programs!) right now. I can't get it to save my text, though... I think it is just a permissions problem.</i>",
+            "id": "935fcf5e4e09e0a3c05e081875c87c06"
+          },
+          {
+            "type": "html",
+            "text": "<i>Ahh.. just got it to work. Fascinating that such a tiny program could have so much functionality!!</i>",
+            "id": "9b13ef9bdd0e04acc2be85ce1cae4ead"
+          },
+          {
+            "type": "html",
+            "text": "<i>Well, I'm off to bed. I've gotta stop myself or I'll never get any sleep tonight. Take care! Steve</i>",
+            "id": "1e8de4ca6ce39690204796c5a21fbe8f"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0446db24dc698a6fec95a587a72a79c7"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "103f8fec357714a9fcc495fbfe9eeed7"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveRusso c2.com]",
+            "id": "638b9cfd1880d5ad1713d4c45a46744e"
+          }
+        ]
+      }
+    }
+  ]
+}
