@@ -1,0 +1,47 @@
+{
+  "title": "Steven Dewitt",
+  "story": [
+    {
+      "type": "html",
+      "text": "I am a new Wiki user.  I am learning about wiki for my IT class.\nI would like to create a new page as a graded assignment.\nThe first page will be about [[Ranger School Knowledge]]",
+      "id": "6c9ee6fee8f78e9d75c8f7bc696c871d"
+    },
+    {
+      "type": "html",
+      "text": "<i>Hi Steven, it's great that you want to learn about Wikis, but this Wiki is about [[People Projects And Patterns]] in [[Software Development]].  If you'd like a Wiki for other purposes, you can set up your own Wiki on a [[Wiki Farm]].</i>",
+      "id": "47ae3a5ec0c9b4c3eab96bff58b90dbe"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevenDewitt c2.com]",
+      "id": "9d76c65e0503c57d7e93e499098cf9ed"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1416858524000,
+      "id": "32285518428eaf6fe81c2b75e29d31fe",
+      "type": "create",
+      "item": {
+        "title": "Steven Dewitt",
+        "story": [
+          {
+            "type": "html",
+            "text": "I am a new Wiki user.  I am learning about wiki for my IT class.\nI would like to create a new page as a graded assignment.\nThe first page will be about [[Ranger School Knowledge]]",
+            "id": "6c9ee6fee8f78e9d75c8f7bc696c871d"
+          },
+          {
+            "type": "html",
+            "text": "<i>Hi Steven, it's great that you want to learn about Wikis, but this Wiki is about [[People Projects And Patterns]] in [[Software Development]].  If you'd like a Wiki for other purposes, you can set up your own Wiki on a [[Wiki Farm]].</i>",
+            "id": "47ae3a5ec0c9b4c3eab96bff58b90dbe"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevenDewitt c2.com]",
+            "id": "9d76c65e0503c57d7e93e499098cf9ed"
+          }
+        ]
+      }
+    }
+  ]
+}

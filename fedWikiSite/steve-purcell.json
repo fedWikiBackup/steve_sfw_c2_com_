@@ -1,0 +1,117 @@
+{
+  "title": "Steve Purcell",
+  "story": [
+    {
+      "type": "html",
+      "text": "I am [[Justa Programmer]] at heart, obsessed with instilling sanity into the software development process.  To that end, I work as a senior technologist and agile practices coach, now independently ([http://www.sanityinc.com/ www.sanityinc.com]), and previously at companies such as [[Thought Works]].",
+      "id": "15df5504a923c44631db5ef13cdbc400"
+    },
+    {
+      "type": "html",
+      "text": "\nI've helped clients in most corners of the industry, have dealt with more technologies, languages and politics than is typical, and have done so in Luxembourg, Munich, Sydney, London and elsewhere.  I am currently available for consulting and coaching work in Munich and elsewhere in Europe.",
+      "id": "7a2f3f472a7fafc4bb0e2b313e85c429"
+    },
+    {
+      "type": "html",
+      "text": "\nLearning new and productive languages keeps me interested in programming, and I wrote the [[Python Unit]] testing framework ([http://pyunit.sourceforge.net/ pyunit.sourceforge.net]) that is now found in the python standard library.  A long time advocate of open source projects, I tinker with various projects in languages including C, Ruby, Erlang and Common Lisp.",
+      "id": "e1691eb04ea2836143e5ddebfb16f485"
+    },
+    {
+      "type": "html",
+      "text": "\nYou can mail me with questions and unusual offers: stephen_purcell at yahoo dot com.",
+      "id": "3c683698fb41a1bf6ce7c0d211ac6d66"
+    },
+    {
+      "type": "html",
+      "text": "\nMy non-consulting work is varied in nature:",
+      "id": "558b040834c920c605a79f919edb9739"
+    },
+    {
+      "type": "html",
+      "text": " As an entrepreneur I run a popular online baby log service ([http://sproglogs.com/ sproglogs.com]) and a site that publishes news about celebrities and charities ([http://www.looktothestars.org/ www.looktothestars.org])",
+      "id": "387518c9d4685c046cc5d3ae0c971787"
+    },
+    {
+      "type": "html",
+      "text": " As professional black and white photographer I sell prints: [http://www.purcellimages.com/ www.purcellimages.com]",
+      "id": "eb7e411ac91b63ba981d555b8e06de96"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "8c6cdf16c47eb866a3ef64c62cac1ebf"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "19726bc5b140479446184ebaa7596b1d"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevePurcell c2.com]",
+      "id": "0094ec264d79d7afb462d37ec20886b2"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1140525324000,
+      "id": "320e236691c213e7afbde143d5652f03",
+      "type": "create",
+      "item": {
+        "title": "Steve Purcell",
+        "story": [
+          {
+            "type": "html",
+            "text": "I am [[Justa Programmer]] at heart, obsessed with instilling sanity into the software development process.  To that end, I work as a senior technologist and agile practices coach, now independently ([http://www.sanityinc.com/ www.sanityinc.com]), and previously at companies such as [[Thought Works]].",
+            "id": "15df5504a923c44631db5ef13cdbc400"
+          },
+          {
+            "type": "html",
+            "text": "\nI've helped clients in most corners of the industry, have dealt with more technologies, languages and politics than is typical, and have done so in Luxembourg, Munich, Sydney, London and elsewhere.  I am currently available for consulting and coaching work in Munich and elsewhere in Europe.",
+            "id": "7a2f3f472a7fafc4bb0e2b313e85c429"
+          },
+          {
+            "type": "html",
+            "text": "\nLearning new and productive languages keeps me interested in programming, and I wrote the [[Python Unit]] testing framework ([http://pyunit.sourceforge.net/ pyunit.sourceforge.net]) that is now found in the python standard library.  A long time advocate of open source projects, I tinker with various projects in languages including C, Ruby, Erlang and Common Lisp.",
+            "id": "e1691eb04ea2836143e5ddebfb16f485"
+          },
+          {
+            "type": "html",
+            "text": "\nYou can mail me with questions and unusual offers: stephen_purcell at yahoo dot com.",
+            "id": "3c683698fb41a1bf6ce7c0d211ac6d66"
+          },
+          {
+            "type": "html",
+            "text": "\nMy non-consulting work is varied in nature:",
+            "id": "558b040834c920c605a79f919edb9739"
+          },
+          {
+            "type": "html",
+            "text": " As an entrepreneur I run a popular online baby log service ([http://sproglogs.com/ sproglogs.com]) and a site that publishes news about celebrities and charities ([http://www.looktothestars.org/ www.looktothestars.org])",
+            "id": "387518c9d4685c046cc5d3ae0c971787"
+          },
+          {
+            "type": "html",
+            "text": " As professional black and white photographer I sell prints: [http://www.purcellimages.com/ www.purcellimages.com]",
+            "id": "eb7e411ac91b63ba981d555b8e06de96"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "8c6cdf16c47eb866a3ef64c62cac1ebf"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "19726bc5b140479446184ebaa7596b1d"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevePurcell c2.com]",
+            "id": "0094ec264d79d7afb462d37ec20886b2"
+          }
+        ]
+      }
+    }
+  ]
+}

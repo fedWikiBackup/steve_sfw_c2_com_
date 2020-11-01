@@ -1,0 +1,47 @@
+{
+  "title": "Steve Conover",
+  "story": [
+    {
+      "type": "html",
+      "text": "SF Bay-area XP coach",
+      "id": "50f55e11fe59a0eeb1f269acdd9affb8"
+    },
+    {
+      "type": "html",
+      "text": "\nmailto:sconover@gmail.com",
+      "id": "c68baad9d50eb2ef9089c0b43dda95e7"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveConover c2.com]",
+      "id": "b51f81cd205508f4f4d0211868d86678"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1100415114000,
+      "id": "a330be198f88d0fc259d2d4c98414064",
+      "type": "create",
+      "item": {
+        "title": "Steve Conover",
+        "story": [
+          {
+            "type": "html",
+            "text": "SF Bay-area XP coach",
+            "id": "50f55e11fe59a0eeb1f269acdd9affb8"
+          },
+          {
+            "type": "html",
+            "text": "\nmailto:sconover@gmail.com",
+            "id": "c68baad9d50eb2ef9089c0b43dda95e7"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveConover c2.com]",
+            "id": "b51f81cd205508f4f4d0211868d86678"
+          }
+        ]
+      }
+    }
+  ]
+}

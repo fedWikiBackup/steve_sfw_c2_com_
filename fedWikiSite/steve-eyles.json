@@ -1,0 +1,57 @@
+{
+  "title": "Steve Eyles",
+  "story": [
+    {
+      "type": "html",
+      "text": "A programmer from Leeds, UK.",
+      "id": "496851f6323f3feb33da3b7acbb123c5"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "9a77600fd96b34e926ec94043bc343c2"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "30b3865532c7a246eae76bf48f602cda"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveEyles c2.com]",
+      "id": "5449fd76d1a10328df018591fa73eea2"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1019554941000,
+      "id": "60753e638170eaf8791ba285894979d4",
+      "type": "create",
+      "item": {
+        "title": "Steve Eyles",
+        "story": [
+          {
+            "type": "html",
+            "text": "A programmer from Leeds, UK.",
+            "id": "496851f6323f3feb33da3b7acbb123c5"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "9a77600fd96b34e926ec94043bc343c2"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "30b3865532c7a246eae76bf48f602cda"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveEyles c2.com]",
+            "id": "5449fd76d1a10328df018591fa73eea2"
+          }
+        ]
+      }
+    }
+  ]
+}

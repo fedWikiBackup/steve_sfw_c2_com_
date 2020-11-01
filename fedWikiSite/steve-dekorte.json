@@ -1,0 +1,37 @@
+{
+  "title": "Steve Dekorte",
+  "story": [
+    {
+      "type": "html",
+      "text": "My hero, for inventing (and implementing) [[Io Language]].  See [http://www.dekorte.com www.dekorte.com].",
+      "id": "da8be0ca753b8821776946df4e74a689"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveDekorte c2.com]",
+      "id": "41936544f4eb764dc4a0a14cc8c3084c"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1102986414000,
+      "id": "e71c41f0c54d1380b7ea6fc948e586e7",
+      "type": "create",
+      "item": {
+        "title": "Steve Dekorte",
+        "story": [
+          {
+            "type": "html",
+            "text": "My hero, for inventing (and implementing) [[Io Language]].  See [http://www.dekorte.com www.dekorte.com].",
+            "id": "da8be0ca753b8821776946df4e74a689"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveDekorte c2.com]",
+            "id": "41936544f4eb764dc4a0a14cc8c3084c"
+          }
+        ]
+      }
+    }
+  ]
+}

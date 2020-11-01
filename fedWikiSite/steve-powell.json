@@ -1,0 +1,117 @@
+{
+  "title": "Steve Powell",
+  "story": [
+    {
+      "type": "html",
+      "text": "I trained as a mathematician, and now work for a large computer firm in Hursley, England, Europe (that's outside the US, guys).",
+      "id": "de32b1322af8795a6d80d4e45c3ea910"
+    },
+    {
+      "type": "html",
+      "text": "\nI have strong interests in Software Engineering, Transaction Processing, Recreational Mathematics and Number Theory, Barbershop Singing, the Z Specification Language, and Coffee.",
+      "id": "00ea0fcecfa7b4479d6327636bc7d627"
+    },
+    {
+      "type": "html",
+      "text": "\nI have lesser interests in Java, Functional Programming, Chocolate, Walking, Labrador Dogs, Teaching and Coffee.",
+      "id": "877c9dd756a82379e24e9ffa0c20f285"
+    },
+    {
+      "type": "html",
+      "text": "\nOK I have added a comment or two to a page on this Wiki, so this isn't my only page.\nI am still struggling with [[La Tex]] on Windows NT (with Z language support) to write a large, fairly mathematical report. Maybe I can get help here.",
+      "id": "9515b206c3bf249da2e1b097f3fd3521"
+    },
+    {
+      "type": "html",
+      "text": "\nWork, of course, occupies my every waking moment.",
+      "id": "b614aa5713ffb4b7a39246e858f4ad22"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e0c3d0761a63e83bf11f9b6db0eb4f78"
+    },
+    {
+      "type": "html",
+      "text": "<i>You're welcome to try [[Math Quiz One]] while you're sleeping!</i> -- vk",
+      "id": "a9ac3ed6227a49ee490ae0d732837f4d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e0c3d0761a63e83bf11f9b6db0eb4f78"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "617f6d5f9c1cff3b088620c594fdddf4"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevePowell c2.com]",
+      "id": "ad87ded1c9403a58be55cc4c51c78f74"
+    }
+  ],
+  "journal": [
+    {
+      "date": 985331899000,
+      "id": "d029560b0fb3f3a8c0add35011cacf9f",
+      "type": "create",
+      "item": {
+        "title": "Steve Powell",
+        "story": [
+          {
+            "type": "html",
+            "text": "I trained as a mathematician, and now work for a large computer firm in Hursley, England, Europe (that's outside the US, guys).",
+            "id": "de32b1322af8795a6d80d4e45c3ea910"
+          },
+          {
+            "type": "html",
+            "text": "\nI have strong interests in Software Engineering, Transaction Processing, Recreational Mathematics and Number Theory, Barbershop Singing, the Z Specification Language, and Coffee.",
+            "id": "00ea0fcecfa7b4479d6327636bc7d627"
+          },
+          {
+            "type": "html",
+            "text": "\nI have lesser interests in Java, Functional Programming, Chocolate, Walking, Labrador Dogs, Teaching and Coffee.",
+            "id": "877c9dd756a82379e24e9ffa0c20f285"
+          },
+          {
+            "type": "html",
+            "text": "\nOK I have added a comment or two to a page on this Wiki, so this isn't my only page.\nI am still struggling with [[La Tex]] on Windows NT (with Z language support) to write a large, fairly mathematical report. Maybe I can get help here.",
+            "id": "9515b206c3bf249da2e1b097f3fd3521"
+          },
+          {
+            "type": "html",
+            "text": "\nWork, of course, occupies my every waking moment.",
+            "id": "b614aa5713ffb4b7a39246e858f4ad22"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e0c3d0761a63e83bf11f9b6db0eb4f78"
+          },
+          {
+            "type": "html",
+            "text": "<i>You're welcome to try [[Math Quiz One]] while you're sleeping!</i> -- vk",
+            "id": "a9ac3ed6227a49ee490ae0d732837f4d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e0c3d0761a63e83bf11f9b6db0eb4f78"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "617f6d5f9c1cff3b088620c594fdddf4"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevePowell c2.com]",
+            "id": "ad87ded1c9403a58be55cc4c51c78f74"
+          }
+        ]
+      }
+    }
+  ]
+}

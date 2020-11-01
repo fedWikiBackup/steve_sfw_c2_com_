@@ -1,0 +1,57 @@
+{
+  "title": "Steve Cook",
+  "story": [
+    {
+      "type": "html",
+      "text": "Former professional jazz musician and coauthor of the [[Syntropy Methodology]]. Now (2005) working at Microsoft.\nPreviously at IBM.  Working on [[Software Factories]].",
+      "id": "81a8402b04ab25ae85428dfc66c43a15"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0fe31e58f8ce0d77ecf38e3d9ddfa7bb"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Author]]",
+      "id": "dc3b09d5afb2fd6bc83cd2e1af9f2bb6"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveCook c2.com]",
+      "id": "0eb5e6e5b584300e0fa3dba94aa6b46b"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1107460053000,
+      "id": "fb44a9a0adace3e874a92b8990d8d148",
+      "type": "create",
+      "item": {
+        "title": "Steve Cook",
+        "story": [
+          {
+            "type": "html",
+            "text": "Former professional jazz musician and coauthor of the [[Syntropy Methodology]]. Now (2005) working at Microsoft.\nPreviously at IBM.  Working on [[Software Factories]].",
+            "id": "81a8402b04ab25ae85428dfc66c43a15"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0fe31e58f8ce0d77ecf38e3d9ddfa7bb"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Author]]",
+            "id": "dc3b09d5afb2fd6bc83cd2e1af9f2bb6"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveCook c2.com]",
+            "id": "0eb5e6e5b584300e0fa3dba94aa6b46b"
+          }
+        ]
+      }
+    }
+  ]
+}

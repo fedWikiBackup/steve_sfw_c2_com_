@@ -1,0 +1,87 @@
+{
+  "title": "Steven Leite",
+  "story": [
+    {
+      "type": "html",
+      "text": "<i>Steven, [[Are You There]]? [[Orphan Page]], last edit 2002-11-03</i>",
+      "id": "752ba1ca698ffdea1f7b4781cfb76479"
+    },
+    {
+      "type": "html",
+      "text": "\n[http://www.kitimat.net/sleite www.kitimat.net]",
+      "id": "f15c998d700b732c335bb195f54d9238"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "ad4ef362e713c020924baf623cb11a95"
+    },
+    {
+      "type": "html",
+      "text": "<i>Welcome, if you haven't yet, check out [[New User Pages]] and [[Tour Bus Stop]].  </i>",
+      "id": "7e4b5b7052ac985e95ea9465ac816082"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "ad4ef362e713c020924baf623cb11a95"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "7451daaeac6f16a940912c4b2f4437a5"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevenLeite c2.com]",
+      "id": "0ff78f68c31c553216719cab5363a1a4"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1105492210000,
+      "id": "051e4a81b3a937907bf67d9375343ecb",
+      "type": "create",
+      "item": {
+        "title": "Steven Leite",
+        "story": [
+          {
+            "type": "html",
+            "text": "<i>Steven, [[Are You There]]? [[Orphan Page]], last edit 2002-11-03</i>",
+            "id": "752ba1ca698ffdea1f7b4781cfb76479"
+          },
+          {
+            "type": "html",
+            "text": "\n[http://www.kitimat.net/sleite www.kitimat.net]",
+            "id": "f15c998d700b732c335bb195f54d9238"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "ad4ef362e713c020924baf623cb11a95"
+          },
+          {
+            "type": "html",
+            "text": "<i>Welcome, if you haven't yet, check out [[New User Pages]] and [[Tour Bus Stop]].  </i>",
+            "id": "7e4b5b7052ac985e95ea9465ac816082"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "ad4ef362e713c020924baf623cb11a95"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "7451daaeac6f16a940912c4b2f4437a5"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevenLeite c2.com]",
+            "id": "0ff78f68c31c553216719cab5363a1a4"
+          }
+        ]
+      }
+    }
+  ]
+}

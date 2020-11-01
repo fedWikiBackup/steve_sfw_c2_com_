@@ -1,0 +1,57 @@
+{
+  "title": "Steve Sawyer",
+  "story": [
+    {
+      "type": "html",
+      "text": "A former Database programmer and former partner in a small software development firm - Geeks and Gurus, Inc. in Detroit, Michigan. Currently engaged in general business consulting.",
+      "id": "6546ddf0f7e885d2acdacc60a2c5f873"
+    },
+    {
+      "type": "html",
+      "text": "\nA disciple of [[Ward Cunningham]], [[Steve Mc Connell]], [[Kent Beck]], [[Martin Fowler]] and the [[Gang Of Four]] - an XP, OO, pattern and database freak, who unfortunately has gotten very turned off of the whole software development business.",
+      "id": "864c7dc1028a51a6e7477b096648b944"
+    },
+    {
+      "type": "html",
+      "text": "\nLooking to find consulting opportunities that take advantage of my business experience and non-technical skills (see [http://www.stephensawyer.com/content/SteveSawyer_SkillsList2.pdf www.stephensawyer.com]), though I still love applying technology in my work.",
+      "id": "89800d0863832b814abb12f2e0cbbd28"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveSawyer c2.com]",
+      "id": "098e61742ac2e43661793968ffdae071"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1114225225000,
+      "id": "87efd36af0c465eb4adcd03e7ef31a28",
+      "type": "create",
+      "item": {
+        "title": "Steve Sawyer",
+        "story": [
+          {
+            "type": "html",
+            "text": "A former Database programmer and former partner in a small software development firm - Geeks and Gurus, Inc. in Detroit, Michigan. Currently engaged in general business consulting.",
+            "id": "6546ddf0f7e885d2acdacc60a2c5f873"
+          },
+          {
+            "type": "html",
+            "text": "\nA disciple of [[Ward Cunningham]], [[Steve Mc Connell]], [[Kent Beck]], [[Martin Fowler]] and the [[Gang Of Four]] - an XP, OO, pattern and database freak, who unfortunately has gotten very turned off of the whole software development business.",
+            "id": "864c7dc1028a51a6e7477b096648b944"
+          },
+          {
+            "type": "html",
+            "text": "\nLooking to find consulting opportunities that take advantage of my business experience and non-technical skills (see [http://www.stephensawyer.com/content/SteveSawyer_SkillsList2.pdf www.stephensawyer.com]), though I still love applying technology in my work.",
+            "id": "89800d0863832b814abb12f2e0cbbd28"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveSawyer c2.com]",
+            "id": "098e61742ac2e43661793968ffdae071"
+          }
+        ]
+      }
+    }
+  ]
+}

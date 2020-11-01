@@ -1,0 +1,57 @@
+{
+  "title": "Steve Waga",
+  "story": [
+    {
+      "type": "html",
+      "text": "My name is Steve Waga. I've been developing software projects using object technology since the mid 80's. Over the past few years, I've been using the Extreme Programming methodology. I can be reached at (925) 964-1615 or by email at mailto:swaga@sentek.com.",
+      "id": "336c15acf0c7b0a8d007aa701bb507cf"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "54f9781c6af6fb98efb0f9bca5a954ea"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "30b12815ad15c6086903fc1922b7d021"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveWaga c2.com]",
+      "id": "bd7bd97f9edecbc7c12cb7a8ff7fc053"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1128273832000,
+      "id": "86bc9a1f51dca17e837e38d6f9a6fe2e",
+      "type": "create",
+      "item": {
+        "title": "Steve Waga",
+        "story": [
+          {
+            "type": "html",
+            "text": "My name is Steve Waga. I've been developing software projects using object technology since the mid 80's. Over the past few years, I've been using the Extreme Programming methodology. I can be reached at (925) 964-1615 or by email at mailto:swaga@sentek.com.",
+            "id": "336c15acf0c7b0a8d007aa701bb507cf"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "54f9781c6af6fb98efb0f9bca5a954ea"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "30b12815ad15c6086903fc1922b7d021"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveWaga c2.com]",
+            "id": "bd7bd97f9edecbc7c12cb7a8ff7fc053"
+          }
+        ]
+      }
+    }
+  ]
+}

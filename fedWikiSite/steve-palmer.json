@@ -1,0 +1,67 @@
+{
+  "title": "Steve Palmer",
+  "story": [
+    {
+      "type": "html",
+      "text": "Steve (Stephen R.) Palmer was the development manager on the project in Singapore where [[Peter Coad]] first discovered the benefits of object modeling in color and [[Jeff De Luca]] first wrote down the five processes that have become known as [[Feature Driven Development]]. \n[[Jeff De Luca]] was the project manager and [[Peter Coad]] the object modeling guru on the project.",
+      "id": "15d730aa81096cd8c7b81a070dfbf7c0"
+    },
+    {
+      "type": "html",
+      "text": "\nSteve is based in the [[United Kingdom]], in Exmouth, Devon to be exact, and now works for hybris ([http://www.hybris.com www.hybris.com]). He still writes about modeling in color and [[Feature Driven Development]] at his own website [http://www.step-10.com www.step-10.com]",
+      "id": "0187da6a286b07dce892842c068fa0ae"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "52ef15990ab7b9c39d1f775e80062d5d"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "d8a18bedd50971f2a16bb1c803b39f68"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevePalmer c2.com]",
+      "id": "c0861c896a124dae4c248073984b022e"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1328808676000,
+      "id": "4fc69eec376e700de590d16bee07bd92",
+      "type": "create",
+      "item": {
+        "title": "Steve Palmer",
+        "story": [
+          {
+            "type": "html",
+            "text": "Steve (Stephen R.) Palmer was the development manager on the project in Singapore where [[Peter Coad]] first discovered the benefits of object modeling in color and [[Jeff De Luca]] first wrote down the five processes that have become known as [[Feature Driven Development]]. \n[[Jeff De Luca]] was the project manager and [[Peter Coad]] the object modeling guru on the project.",
+            "id": "15d730aa81096cd8c7b81a070dfbf7c0"
+          },
+          {
+            "type": "html",
+            "text": "\nSteve is based in the [[United Kingdom]], in Exmouth, Devon to be exact, and now works for hybris ([http://www.hybris.com www.hybris.com]). He still writes about modeling in color and [[Feature Driven Development]] at his own website [http://www.step-10.com www.step-10.com]",
+            "id": "0187da6a286b07dce892842c068fa0ae"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "52ef15990ab7b9c39d1f775e80062d5d"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "d8a18bedd50971f2a16bb1c803b39f68"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevePalmer c2.com]",
+            "id": "c0861c896a124dae4c248073984b022e"
+          }
+        ]
+      }
+    }
+  ]
+}

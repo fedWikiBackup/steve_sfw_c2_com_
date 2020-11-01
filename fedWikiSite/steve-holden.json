@@ -1,0 +1,127 @@
+{
+  "title": "Steve Holden",
+  "story": [
+    {
+      "type": "html",
+      "text": "Agile development methodologies will one day be the establishment approach.\nWhat will the radicals be doing then?",
+      "id": "a972f96828437e301bd604ae5a9b4eb9"
+    },
+    {
+      "type": "html",
+      "text": "\nIt seems that some [[Agile Development]] techniques and principles",
+      "id": "8f86106d33854d02fa1786946c2eb2ff"
+    },
+    {
+      "type": "html",
+      "text": "(<i>e.g.</i> [[Refactor Mercilessly]]) are much more generally applicable than others",
+      "id": "933855c08cecea6b55021584869f3bfe"
+    },
+    {
+      "type": "html",
+      "text": "(<i>e.g.</i> [[Pair Programming]]), and that an insular existence demands a somewhat\nmodified approach. What happens when the social dynamic changes?",
+      "id": "779c14e9ebaaea9a88bcb0d4fbb9ed23"
+    },
+    {
+      "type": "html",
+      "text": "\nI've tried some of the tools listed under [[Virtual Pair Programming]], but they don;t seem to address the real issues.",
+      "id": "eab1178d6a1f61f95efb5f90af8ae59d"
+    },
+    {
+      "type": "html",
+      "text": "\nAccess to this (and other) Wikis is a valuable training resource.",
+      "id": "06c01172272f7556dfb7531b95becd57"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "4326b4eae8c995b7f10b8fe4efa7c1d8"
+    },
+    {
+      "type": "html",
+      "text": "<i>Not the old Newton fan Steve Holden that collects news items for Pen Computing Magazine?</i>\nNo, but I occasionally get enquiries of this nature, so you can reach him as sholden at pobox.com. One day it would be interesting to meet him or her (<i>easy to forget one's own name can apply to both genders</i>). Indeed is it is, and clearly I did -- <i>SH</i>",
+      "id": "4371c59de82ec18e71b58c9142e87e01"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "4326b4eae8c995b7f10b8fe4efa7c1d8"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Category Home Page]]",
+      "id": "593f4339427ce7f341867300ed4d4f7c"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveHolden c2.com]",
+      "id": "adb72147e94854b4c440c5723f7def60"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1277019341000,
+      "id": "1b7a160714a5ed37299a78770ce93106",
+      "type": "create",
+      "item": {
+        "title": "Steve Holden",
+        "story": [
+          {
+            "type": "html",
+            "text": "Agile development methodologies will one day be the establishment approach.\nWhat will the radicals be doing then?",
+            "id": "a972f96828437e301bd604ae5a9b4eb9"
+          },
+          {
+            "type": "html",
+            "text": "\nIt seems that some [[Agile Development]] techniques and principles",
+            "id": "8f86106d33854d02fa1786946c2eb2ff"
+          },
+          {
+            "type": "html",
+            "text": "(<i>e.g.</i> [[Refactor Mercilessly]]) are much more generally applicable than others",
+            "id": "933855c08cecea6b55021584869f3bfe"
+          },
+          {
+            "type": "html",
+            "text": "(<i>e.g.</i> [[Pair Programming]]), and that an insular existence demands a somewhat\nmodified approach. What happens when the social dynamic changes?",
+            "id": "779c14e9ebaaea9a88bcb0d4fbb9ed23"
+          },
+          {
+            "type": "html",
+            "text": "\nI've tried some of the tools listed under [[Virtual Pair Programming]], but they don;t seem to address the real issues.",
+            "id": "eab1178d6a1f61f95efb5f90af8ae59d"
+          },
+          {
+            "type": "html",
+            "text": "\nAccess to this (and other) Wikis is a valuable training resource.",
+            "id": "06c01172272f7556dfb7531b95becd57"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "4326b4eae8c995b7f10b8fe4efa7c1d8"
+          },
+          {
+            "type": "html",
+            "text": "<i>Not the old Newton fan Steve Holden that collects news items for Pen Computing Magazine?</i>\nNo, but I occasionally get enquiries of this nature, so you can reach him as sholden at pobox.com. One day it would be interesting to meet him or her (<i>easy to forget one's own name can apply to both genders</i>). Indeed is it is, and clearly I did -- <i>SH</i>",
+            "id": "4371c59de82ec18e71b58c9142e87e01"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "4326b4eae8c995b7f10b8fe4efa7c1d8"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Category Home Page]]",
+            "id": "593f4339427ce7f341867300ed4d4f7c"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveHolden c2.com]",
+            "id": "adb72147e94854b4c440c5723f7def60"
+          }
+        ]
+      }
+    }
+  ]
+}

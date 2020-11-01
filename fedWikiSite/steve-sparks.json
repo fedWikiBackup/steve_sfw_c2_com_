@@ -1,0 +1,67 @@
+{
+  "title": "Steve Sparks",
+  "story": [
+    {
+      "type": "html",
+      "text": "just another geek. ;) ",
+      "id": "293b77c663652429998474208f84f6cb"
+    },
+    {
+      "type": "html",
+      "text": "\nmailto:barbecuesteve@gmail.com",
+      "id": "e7b43df8d534acd6dc6326277330a6ae"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "c691f0acd6cda08a5a2d794eb6b162fa"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "382a855e5a692b3008406139bb9e57c0"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveSparks c2.com]",
+      "id": "6a24d8cff3d299b9cebdd0af03727fb6"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1301069288000,
+      "id": "8d2cadcef882901c637aed599d5d2279",
+      "type": "create",
+      "item": {
+        "title": "Steve Sparks",
+        "story": [
+          {
+            "type": "html",
+            "text": "just another geek. ;) ",
+            "id": "293b77c663652429998474208f84f6cb"
+          },
+          {
+            "type": "html",
+            "text": "\nmailto:barbecuesteve@gmail.com",
+            "id": "e7b43df8d534acd6dc6326277330a6ae"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "c691f0acd6cda08a5a2d794eb6b162fa"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "382a855e5a692b3008406139bb9e57c0"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveSparks c2.com]",
+            "id": "6a24d8cff3d299b9cebdd0af03727fb6"
+          }
+        ]
+      }
+    }
+  ]
+}

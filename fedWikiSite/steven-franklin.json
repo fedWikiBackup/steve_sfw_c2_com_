@@ -1,0 +1,77 @@
+{
+  "title": "Steven Franklin",
+  "story": [
+    {
+      "type": "html",
+      "text": "This is a wiki describing my work during my studies as Sheffield University.",
+      "id": "6d8058ae8a3169b1795f68af998c4e41"
+    },
+    {
+      "type": "html",
+      "text": "\nIm currently working on a functional test tool that can be used in conjunction with JUnit to functionally test a java program. More information will appear as I have it.",
+      "id": "4521b33831883e577dbc6ae45d85a5f3"
+    },
+    {
+      "type": "html",
+      "text": "\nThanks for you time",
+      "id": "c6b23dcbae68fc8d5d24ead402c9dc6c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "6f4695fc812c3e1ed43f02e6dd61eb99"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "da721db175bdafe2c0db3b462b9abdbc"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevenFranklin c2.com]",
+      "id": "c8dcc627d10690d039238c717d247a8f"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1096686357000,
+      "id": "c21a70b560f00d1865cf2ad8d6d9a67e",
+      "type": "create",
+      "item": {
+        "title": "Steven Franklin",
+        "story": [
+          {
+            "type": "html",
+            "text": "This is a wiki describing my work during my studies as Sheffield University.",
+            "id": "6d8058ae8a3169b1795f68af998c4e41"
+          },
+          {
+            "type": "html",
+            "text": "\nIm currently working on a functional test tool that can be used in conjunction with JUnit to functionally test a java program. More information will appear as I have it.",
+            "id": "4521b33831883e577dbc6ae45d85a5f3"
+          },
+          {
+            "type": "html",
+            "text": "\nThanks for you time",
+            "id": "c6b23dcbae68fc8d5d24ead402c9dc6c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "6f4695fc812c3e1ed43f02e6dd61eb99"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "da721db175bdafe2c0db3b462b9abdbc"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevenFranklin c2.com]",
+            "id": "c8dcc627d10690d039238c717d247a8f"
+          }
+        ]
+      }
+    }
+  ]
+}

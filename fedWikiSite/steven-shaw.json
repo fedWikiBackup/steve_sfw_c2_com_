@@ -1,0 +1,177 @@
+{
+  "title": "Steven Shaw",
+  "story": [
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f26079a641e6d103d42fa872d9ef660d"
+    },
+    {
+      "type": "code",
+      "text": "    Home     http://steshaw.org/\n    Twitter  http://twitter.com/steshaw\n    LinkedIn http://linkedin.com/in/steshaw",
+      "id": "4203bd2223c906946209d6d31e31478c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f26079a641e6d103d42fa872d9ef660d"
+    },
+    {
+      "type": "html",
+      "text": "\nMy personal development motto has always been [[Power Thru Simplicity]], which translates well to the XP rule\n[[Do The Simplest Thing That Could Possibly Work]].",
+      "id": "6ca4459e9acb7febea7c8692aa0298b6"
+    },
+    {
+      "type": "html",
+      "text": " My first post to the XP mailing list 20-Jan-2000 [http://tech.groups.yahoo.com/group/extremeprogramming/message/635 tech.groups.yahoo.com]",
+      "id": "dae37a17aafad8e5ade132a96f76f950"
+    },
+    {
+      "type": "html",
+      "text": " Robert C. Martin creates the XP mailing list in 01-Jan-2000 [http://tech.groups.yahoo.com/group/extremeprogramming/message/1 tech.groups.yahoo.com]",
+      "id": "e3d07bb4a95ad0a6d93835a1d4c1995b"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f26079a641e6d103d42fa872d9ef660d"
+    },
+    {
+      "type": "html",
+      "text": "A very ancient opinion of mine on programming languages:",
+      "id": "c8c9522c847a39166509514e94e7d2a0"
+    },
+    {
+      "type": "html",
+      "text": "\nI'm interested in programming languages. I'm especially drawn to [[Ruby Language]], [[Scheme Language]], [[Common Lisp]] and [[Smalltalk Language]]. I've discovered that there is a strong relationship between the [[Lisp Language]] and the [[Smalltalk Language]].",
+      "id": "dd99a3e0bc290448057ce1d7a1fb113f"
+    },
+    {
+      "type": "html",
+      "text": "\nA pretty ancient update to that opinion:",
+      "id": "97426a2c96f4887aeb7f773e8cc049e7"
+    },
+    {
+      "type": "html",
+      "text": "\nAfter this spout of interest in dynamically typed languages, I realised that there really is a lot to be said for good tools like Eclipse and IntelliJ. Static typing helps with tooling. I am interested in languages like [[Objective Caml]], [[Sml Language]] and even the [[Haskell Language]]. However, probably more relevant is the [[Scala Language]], which has many of their traits (and a few extra) and runs on top of the Java and .NET platforms (note that .NET implementation is now languishing). In any language now, I am going to miss navigation/comprehension tools like goto definition (ctrl-click), find usages (Alt-F7), highlight usages (Ctrl-Shift-F7), icons to indicator of overridden methods; refactorings like safe rename, extract interface and source generators like implement inherited methods; and even little things like import help, as-you-type warnings/errors along with suggestions to fix these. The [[Scala Language]] currently has a rudimentary [[Eclipse Plugin]] but it's a language worth watching. Apparently, [[Jet Brains]] are working on support in IntelliJ for the [[Scala Language]]!",
+      "id": "62e9967166a69f761f284af1d8523014"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f26079a641e6d103d42fa872d9ef660d"
+    },
+    {
+      "type": "html",
+      "text": "\nPerhaps find other people with the name Steven Shaw at [[Steven Shaws]] (or perhaps not)",
+      "id": "03cdd4509edabe6d2c1cab5099d01e56"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f26079a641e6d103d42fa872d9ef660d"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Category Home Page]]",
+      "id": "2c7c4263e4472acb76767a846981a3a3"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevenShaw c2.com]",
+      "id": "917fd31f1742658ff8330d279e3cfa5b"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1374037663000,
+      "id": "e1051fd789376e0a77b1123b3ffa5305",
+      "type": "create",
+      "item": {
+        "title": "Steven Shaw",
+        "story": [
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f26079a641e6d103d42fa872d9ef660d"
+          },
+          {
+            "type": "code",
+            "text": "    Home     http://steshaw.org/\n    Twitter  http://twitter.com/steshaw\n    LinkedIn http://linkedin.com/in/steshaw",
+            "id": "4203bd2223c906946209d6d31e31478c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f26079a641e6d103d42fa872d9ef660d"
+          },
+          {
+            "type": "html",
+            "text": "\nMy personal development motto has always been [[Power Thru Simplicity]], which translates well to the XP rule\n[[Do The Simplest Thing That Could Possibly Work]].",
+            "id": "6ca4459e9acb7febea7c8692aa0298b6"
+          },
+          {
+            "type": "html",
+            "text": " My first post to the XP mailing list 20-Jan-2000 [http://tech.groups.yahoo.com/group/extremeprogramming/message/635 tech.groups.yahoo.com]",
+            "id": "dae37a17aafad8e5ade132a96f76f950"
+          },
+          {
+            "type": "html",
+            "text": " Robert C. Martin creates the XP mailing list in 01-Jan-2000 [http://tech.groups.yahoo.com/group/extremeprogramming/message/1 tech.groups.yahoo.com]",
+            "id": "e3d07bb4a95ad0a6d93835a1d4c1995b"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f26079a641e6d103d42fa872d9ef660d"
+          },
+          {
+            "type": "html",
+            "text": "A very ancient opinion of mine on programming languages:",
+            "id": "c8c9522c847a39166509514e94e7d2a0"
+          },
+          {
+            "type": "html",
+            "text": "\nI'm interested in programming languages. I'm especially drawn to [[Ruby Language]], [[Scheme Language]], [[Common Lisp]] and [[Smalltalk Language]]. I've discovered that there is a strong relationship between the [[Lisp Language]] and the [[Smalltalk Language]].",
+            "id": "dd99a3e0bc290448057ce1d7a1fb113f"
+          },
+          {
+            "type": "html",
+            "text": "\nA pretty ancient update to that opinion:",
+            "id": "97426a2c96f4887aeb7f773e8cc049e7"
+          },
+          {
+            "type": "html",
+            "text": "\nAfter this spout of interest in dynamically typed languages, I realised that there really is a lot to be said for good tools like Eclipse and IntelliJ. Static typing helps with tooling. I am interested in languages like [[Objective Caml]], [[Sml Language]] and even the [[Haskell Language]]. However, probably more relevant is the [[Scala Language]], which has many of their traits (and a few extra) and runs on top of the Java and .NET platforms (note that .NET implementation is now languishing). In any language now, I am going to miss navigation/comprehension tools like goto definition (ctrl-click), find usages (Alt-F7), highlight usages (Ctrl-Shift-F7), icons to indicator of overridden methods; refactorings like safe rename, extract interface and source generators like implement inherited methods; and even little things like import help, as-you-type warnings/errors along with suggestions to fix these. The [[Scala Language]] currently has a rudimentary [[Eclipse Plugin]] but it's a language worth watching. Apparently, [[Jet Brains]] are working on support in IntelliJ for the [[Scala Language]]!",
+            "id": "62e9967166a69f761f284af1d8523014"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f26079a641e6d103d42fa872d9ef660d"
+          },
+          {
+            "type": "html",
+            "text": "\nPerhaps find other people with the name Steven Shaw at [[Steven Shaws]] (or perhaps not)",
+            "id": "03cdd4509edabe6d2c1cab5099d01e56"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f26079a641e6d103d42fa872d9ef660d"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Category Home Page]]",
+            "id": "2c7c4263e4472acb76767a846981a3a3"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevenShaw c2.com]",
+            "id": "917fd31f1742658ff8330d279e3cfa5b"
+          }
+        ]
+      }
+    }
+  ]
+}

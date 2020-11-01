@@ -1,0 +1,87 @@
+{
+  "title": "Bob Stevens",
+  "story": [
+    {
+      "type": "html",
+      "text": "I'm a software developer with Input/Output, Inc. doing object-oriented\nA/D/P for seismic data acquisition.",
+      "id": "6939f130fe1fe5cacf53d85ea970ca84"
+    },
+    {
+      "type": "html",
+      "text": "\nAs many of the participants here, I continue to be very impressed with\nthe work of Gamma et al. and what they have given us.",
+      "id": "ec1c9d8c45cd12a2a609e65faaab582c"
+    },
+    {
+      "type": "html",
+      "text": "\nemail:  bstevens@i-o.com",
+      "id": "49f09c4e8af310f162252c292aa5fb7a"
+    },
+    {
+      "type": "html",
+      "text": "\nWWW page:  [http://starbase.neosoft.com/~bstevens starbase.neosoft.com]",
+      "id": "9c75fb8f360b428f8ad5ddc5369adacf"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "2b6c2d49d351b8671c75a8f800c5ec99"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "350f766b7ff87e75b226423cf2de3983"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?BobStevens c2.com]",
+      "id": "a4197587f41796ad64975af8d2342079"
+    }
+  ],
+  "journal": [
+    {
+      "date": 972748918000,
+      "id": "458aa3007fdd86127bdd66765c122f72",
+      "type": "create",
+      "item": {
+        "title": "Bob Stevens",
+        "story": [
+          {
+            "type": "html",
+            "text": "I'm a software developer with Input/Output, Inc. doing object-oriented\nA/D/P for seismic data acquisition.",
+            "id": "6939f130fe1fe5cacf53d85ea970ca84"
+          },
+          {
+            "type": "html",
+            "text": "\nAs many of the participants here, I continue to be very impressed with\nthe work of Gamma et al. and what they have given us.",
+            "id": "ec1c9d8c45cd12a2a609e65faaab582c"
+          },
+          {
+            "type": "html",
+            "text": "\nemail:  bstevens@i-o.com",
+            "id": "49f09c4e8af310f162252c292aa5fb7a"
+          },
+          {
+            "type": "html",
+            "text": "\nWWW page:  [http://starbase.neosoft.com/~bstevens starbase.neosoft.com]",
+            "id": "9c75fb8f360b428f8ad5ddc5369adacf"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "2b6c2d49d351b8671c75a8f800c5ec99"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "350f766b7ff87e75b226423cf2de3983"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?BobStevens c2.com]",
+            "id": "a4197587f41796ad64975af8d2342079"
+          }
+        ]
+      }
+    }
+  ]
+}

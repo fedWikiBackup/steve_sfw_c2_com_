@@ -1,0 +1,107 @@
+{
+  "title": "Steve Yegge",
+  "story": [
+    {
+      "type": "html",
+      "text": "Googler, Creator of the Wyvern game, [[Rhino On Rails]]. ",
+      "id": "09afcbaf3897261441ba7b12e100b0ce"
+    },
+    {
+      "type": "html",
+      "text": "\nBlogger:",
+      "id": "34f90a8f9c59e92d67478e4025da15ca"
+    },
+    {
+      "type": "html",
+      "text": "Old Drunken Blog Rants: [http://steve.yegge.googlepages.com/blog-rants steve.yegge.googlepages.com]",
+      "id": "7823307af2d9ea96df224ebd871ab3e2"
+    },
+    {
+      "type": "html",
+      "text": "New Blog Rants: [http://steve-yegge.blogspot.com steve-yegge.blogspot.com]",
+      "id": "81d293ffb1fa67d0ca8c46e59bd6d853"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "2afec4dfe9707096b8117a52ac522fd1"
+    },
+    {
+      "type": "html",
+      "text": "<i>Welcome to Wiki, Steve.</i>",
+      "id": "d4855d5becf6b2e7d821f02766df2d8c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "2afec4dfe9707096b8117a52ac522fd1"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "d7cfb756dd0e0be88c24f460e3fce6da"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveYegge c2.com]",
+      "id": "745588e24732290db80861e744ae2584"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1245747697000,
+      "id": "b96e4b325a861666eb66320a916109cc",
+      "type": "create",
+      "item": {
+        "title": "Steve Yegge",
+        "story": [
+          {
+            "type": "html",
+            "text": "Googler, Creator of the Wyvern game, [[Rhino On Rails]]. ",
+            "id": "09afcbaf3897261441ba7b12e100b0ce"
+          },
+          {
+            "type": "html",
+            "text": "\nBlogger:",
+            "id": "34f90a8f9c59e92d67478e4025da15ca"
+          },
+          {
+            "type": "html",
+            "text": "Old Drunken Blog Rants: [http://steve.yegge.googlepages.com/blog-rants steve.yegge.googlepages.com]",
+            "id": "7823307af2d9ea96df224ebd871ab3e2"
+          },
+          {
+            "type": "html",
+            "text": "New Blog Rants: [http://steve-yegge.blogspot.com steve-yegge.blogspot.com]",
+            "id": "81d293ffb1fa67d0ca8c46e59bd6d853"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "2afec4dfe9707096b8117a52ac522fd1"
+          },
+          {
+            "type": "html",
+            "text": "<i>Welcome to Wiki, Steve.</i>",
+            "id": "d4855d5becf6b2e7d821f02766df2d8c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "2afec4dfe9707096b8117a52ac522fd1"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "d7cfb756dd0e0be88c24f460e3fce6da"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveYegge c2.com]",
+            "id": "745588e24732290db80861e744ae2584"
+          }
+        ]
+      }
+    }
+  ]
+}

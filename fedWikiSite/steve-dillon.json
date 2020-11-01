@@ -1,0 +1,37 @@
+{
+  "title": "Steve Dillon",
+  "story": [
+    {
+      "type": "html",
+      "text": "Steve Dillon is a retired policeman who started writing fictional books.He then went to Vertigo comics.",
+      "id": "0b585dacb6b5fd20ce571cda939dcb75"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveDillon c2.com]",
+      "id": "274625201cc0e0bf04926219830ed5f4"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1074857860000,
+      "id": "b0c9ab1641ced27fd0a5b32c01383f8d",
+      "type": "create",
+      "item": {
+        "title": "Steve Dillon",
+        "story": [
+          {
+            "type": "html",
+            "text": "Steve Dillon is a retired policeman who started writing fictional books.He then went to Vertigo comics.",
+            "id": "0b585dacb6b5fd20ce571cda939dcb75"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveDillon c2.com]",
+            "id": "274625201cc0e0bf04926219830ed5f4"
+          }
+        ]
+      }
+    }
+  ]
+}

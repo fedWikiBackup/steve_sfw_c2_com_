@@ -1,0 +1,87 @@
+{
+  "title": "Steve Cline",
+  "story": [
+    {
+      "type": "html",
+      "text": "Steve Cline's home page can be found at: [http://www.objectbap.com/ www.objectbap.com].  His personal page is at [http://www.clines.org www.clines.org]",
+      "id": "3675d3b516cd4aed47b322cde850a159"
+    },
+    {
+      "type": "html",
+      "text": "\nI was first exposed to Smalltalk in a course at [[North Carolina State University]] in 1987, using it sporadically until leaving IBM in 1994, and have been earning a living with it since then, in big shop/MIS situations. ",
+      "id": "67d6c8a8e7046dae331c23b85ef01f22"
+    },
+    {
+      "type": "html",
+      "text": "\nI am interested in the use of Smalltalk in small shops, writing for shrink-wrap, shareware, or small business solutions. My primary dialects are [[Visual Works]], [[Visual Age]], VSE, and [[Pocket Smalltalk]].",
+      "id": "56660f9362667c15a098a980e41948c5"
+    },
+    {
+      "type": "html",
+      "text": "\nI am currently an employee of [[First Data Corporation]].",
+      "id": "d3922d7a37575a63d31a364a351f14f4"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d707c341cd64439763117e170c2b1c1b"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "fd72cfb9a38a3b164108e0c57004b2c6"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveCline c2.com]",
+      "id": "e5b172ec4367ae65b47f258d9dbdfb91"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1092784291000,
+      "id": "91a192306e792c82c37c9b5a86f5933c",
+      "type": "create",
+      "item": {
+        "title": "Steve Cline",
+        "story": [
+          {
+            "type": "html",
+            "text": "Steve Cline's home page can be found at: [http://www.objectbap.com/ www.objectbap.com].  His personal page is at [http://www.clines.org www.clines.org]",
+            "id": "3675d3b516cd4aed47b322cde850a159"
+          },
+          {
+            "type": "html",
+            "text": "\nI was first exposed to Smalltalk in a course at [[North Carolina State University]] in 1987, using it sporadically until leaving IBM in 1994, and have been earning a living with it since then, in big shop/MIS situations. ",
+            "id": "67d6c8a8e7046dae331c23b85ef01f22"
+          },
+          {
+            "type": "html",
+            "text": "\nI am interested in the use of Smalltalk in small shops, writing for shrink-wrap, shareware, or small business solutions. My primary dialects are [[Visual Works]], [[Visual Age]], VSE, and [[Pocket Smalltalk]].",
+            "id": "56660f9362667c15a098a980e41948c5"
+          },
+          {
+            "type": "html",
+            "text": "\nI am currently an employee of [[First Data Corporation]].",
+            "id": "d3922d7a37575a63d31a364a351f14f4"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d707c341cd64439763117e170c2b1c1b"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "fd72cfb9a38a3b164108e0c57004b2c6"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveCline c2.com]",
+            "id": "e5b172ec4367ae65b47f258d9dbdfb91"
+          }
+        ]
+      }
+    }
+  ]
+}

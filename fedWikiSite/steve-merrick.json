@@ -1,0 +1,57 @@
+{
+  "title": "Steve Merrick",
+  "story": [
+    {
+      "type": "html",
+      "text": "Steve Merrick is a software designer who has mainly worked in real-time embedded software, first using C and assembler, then C++, OO, patterns, UML and other trendy buzzwords. :-) Steve's recent experience has been using C in all manner of embedded projects, writing software Quality processes, and then using them. Steve lives in Cheshire (UK).",
+      "id": "172059bfcf94513adeab310e53212e34"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "c22641a6ff5b3784f0a31d92d1b1c863"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "e8fc35ff21351c05c2c1e6c03149c1f6"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveMerrick c2.com]",
+      "id": "25b2452d30a172ca8c9425df9b0287e4"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1277393955000,
+      "id": "31333afc66213edc7758ae52fdce42e7",
+      "type": "create",
+      "item": {
+        "title": "Steve Merrick",
+        "story": [
+          {
+            "type": "html",
+            "text": "Steve Merrick is a software designer who has mainly worked in real-time embedded software, first using C and assembler, then C++, OO, patterns, UML and other trendy buzzwords. :-) Steve's recent experience has been using C in all manner of embedded projects, writing software Quality processes, and then using them. Steve lives in Cheshire (UK).",
+            "id": "172059bfcf94513adeab310e53212e34"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "c22641a6ff5b3784f0a31d92d1b1c863"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "e8fc35ff21351c05c2c1e6c03149c1f6"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveMerrick c2.com]",
+            "id": "25b2452d30a172ca8c9425df9b0287e4"
+          }
+        ]
+      }
+    }
+  ]
+}

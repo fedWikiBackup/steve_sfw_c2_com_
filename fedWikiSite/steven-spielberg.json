@@ -1,0 +1,77 @@
+{
+  "title": "Steven Spielberg",
+  "story": [
+    {
+      "type": "html",
+      "text": "A purveyor of affable & homiletic movies about ordinary folk like you and me getting eaten alive by giant monsters.",
+      "id": "9442b591f04ac701a83aca139caff028"
+    },
+    {
+      "type": "html",
+      "text": "\nConsidered by some to be one of the greatest filmmakers ever, at least from the [[United States]].  Has made some truly great films from many different genres (a list which includes [[Ee Tee The Extra Terrestrial]], [[Close Encounters Of The Third Kind]], [[Raiders Of The Lost Ark]], [[The Color Purple]], [[Schindlers List]], [[Saving Private Ryan]]).",
+      "id": "9cf1c4774bc69809ab1d11b5af6c74bc"
+    },
+    {
+      "type": "html",
+      "text": "\nConsidered by others to be one of the worst purveyors of overly-sentimental, treacly schlock--not to mention just a few plain stinkers ([[Nineteen Forty Two Movie]], [[Batteries Not Included Movie]], [[Hook Movie]], [[Ai The Movie]] to name a few).  ",
+      "id": "15e5fd07ffb888f25c855ebb7e2881a8"
+    },
+    {
+      "type": "html",
+      "text": "\nIMHO both are right.  With a good script, and subject matter that he cares deeply about, Spielberg is a master of his craft.  However, he is too easily lured into producing sappy tearjerkers--he often tries to cram too many \"emotional moments\" into a film.  Quite a few of his movies would be better if 30-45 minutes of footage were left on the cutting room floor--[[Hook Movie]] was a canonical example.)",
+      "id": "b5d0826bc414ecb8bd41034959102f91"
+    },
+    {
+      "type": "html",
+      "text": "\nUnfortunately, Spielberg is one of the most powerful men in Hollywood (the S in SKG Dreamworks)... there isn't a person in show business who can order him to cut a scene.",
+      "id": "6341047b5a1dcb811f034a3b66b40afd"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevenSpielberg c2.com]",
+      "id": "5a822f366aca913d9a743e98d53af29e"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1064599839000,
+      "id": "41618a3516446c47836002868a8ec6b2",
+      "type": "create",
+      "item": {
+        "title": "Steven Spielberg",
+        "story": [
+          {
+            "type": "html",
+            "text": "A purveyor of affable & homiletic movies about ordinary folk like you and me getting eaten alive by giant monsters.",
+            "id": "9442b591f04ac701a83aca139caff028"
+          },
+          {
+            "type": "html",
+            "text": "\nConsidered by some to be one of the greatest filmmakers ever, at least from the [[United States]].  Has made some truly great films from many different genres (a list which includes [[Ee Tee The Extra Terrestrial]], [[Close Encounters Of The Third Kind]], [[Raiders Of The Lost Ark]], [[The Color Purple]], [[Schindlers List]], [[Saving Private Ryan]]).",
+            "id": "9cf1c4774bc69809ab1d11b5af6c74bc"
+          },
+          {
+            "type": "html",
+            "text": "\nConsidered by others to be one of the worst purveyors of overly-sentimental, treacly schlock--not to mention just a few plain stinkers ([[Nineteen Forty Two Movie]], [[Batteries Not Included Movie]], [[Hook Movie]], [[Ai The Movie]] to name a few).  ",
+            "id": "15e5fd07ffb888f25c855ebb7e2881a8"
+          },
+          {
+            "type": "html",
+            "text": "\nIMHO both are right.  With a good script, and subject matter that he cares deeply about, Spielberg is a master of his craft.  However, he is too easily lured into producing sappy tearjerkers--he often tries to cram too many \"emotional moments\" into a film.  Quite a few of his movies would be better if 30-45 minutes of footage were left on the cutting room floor--[[Hook Movie]] was a canonical example.)",
+            "id": "b5d0826bc414ecb8bd41034959102f91"
+          },
+          {
+            "type": "html",
+            "text": "\nUnfortunately, Spielberg is one of the most powerful men in Hollywood (the S in SKG Dreamworks)... there isn't a person in show business who can order him to cut a scene.",
+            "id": "6341047b5a1dcb811f034a3b66b40afd"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevenSpielberg c2.com]",
+            "id": "5a822f366aca913d9a743e98d53af29e"
+          }
+        ]
+      }
+    }
+  ]
+}

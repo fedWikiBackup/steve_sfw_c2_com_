@@ -1,0 +1,47 @@
+{
+  "title": "Steve Berczuk",
+  "story": [
+    {
+      "type": "html",
+      "text": "I'm an agile software developer and someone who tries to help teams use [[Software Configuration Management]] well. For more about what I'm up to see [http://www.berczuk.com www.berczuk.com]",
+      "id": "36eff2022a7671543ae2609a22dad0b0"
+    },
+    {
+      "type": "html",
+      "text": "---\n[[Category Home Page]]",
+      "id": "167aaa08f73db87b5ad571705f978e77"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveBerczuk c2.com]",
+      "id": "8b96591e7f6b8ae80dce8a22e0ad7d65"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1248219855000,
+      "id": "61d3e66c822cbf35311aa1a4a42d3b36",
+      "type": "create",
+      "item": {
+        "title": "Steve Berczuk",
+        "story": [
+          {
+            "type": "html",
+            "text": "I'm an agile software developer and someone who tries to help teams use [[Software Configuration Management]] well. For more about what I'm up to see [http://www.berczuk.com www.berczuk.com]",
+            "id": "36eff2022a7671543ae2609a22dad0b0"
+          },
+          {
+            "type": "html",
+            "text": "---\n[[Category Home Page]]",
+            "id": "167aaa08f73db87b5ad571705f978e77"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveBerczuk c2.com]",
+            "id": "8b96591e7f6b8ae80dce8a22e0ad7d65"
+          }
+        ]
+      }
+    }
+  ]
+}

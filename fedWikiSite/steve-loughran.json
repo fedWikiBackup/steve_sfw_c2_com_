@@ -1,0 +1,67 @@
+{
+  "title": "Steve Loughran",
+  "story": [
+    {
+      "type": "html",
+      "text": "Research Scientist, working on deployment of things to grid fabrics.",
+      "id": "80c439abb156582ef2ef5dd9b597c89a"
+    },
+    {
+      "type": "html",
+      "text": "\nCo-author of [[Java Development With Ant]].",
+      "id": "2d4be8de3a41191aec5bab5294806b0a"
+    },
+    {
+      "type": "html",
+      "text": "\nCommitter to [[Apache Ant]] and [[Apache Axis]]. ",
+      "id": "4efa267f4cbc487fef336c6c431149d4"
+    },
+    {
+      "type": "html",
+      "text": "\nFavourite paper authored: The Secret Life of Notebooks.",
+      "id": "571bfb637e4e7eb8cccc4fff1870312c"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveLoughran c2.com]",
+      "id": "916b5e7e57c68251333e96759c187774"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1102094179000,
+      "id": "4fc3e45a00c703fddb3038e0aa2c26f4",
+      "type": "create",
+      "item": {
+        "title": "Steve Loughran",
+        "story": [
+          {
+            "type": "html",
+            "text": "Research Scientist, working on deployment of things to grid fabrics.",
+            "id": "80c439abb156582ef2ef5dd9b597c89a"
+          },
+          {
+            "type": "html",
+            "text": "\nCo-author of [[Java Development With Ant]].",
+            "id": "2d4be8de3a41191aec5bab5294806b0a"
+          },
+          {
+            "type": "html",
+            "text": "\nCommitter to [[Apache Ant]] and [[Apache Axis]]. ",
+            "id": "4efa267f4cbc487fef336c6c431149d4"
+          },
+          {
+            "type": "html",
+            "text": "\nFavourite paper authored: The Secret Life of Notebooks.",
+            "id": "571bfb637e4e7eb8cccc4fff1870312c"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveLoughran c2.com]",
+            "id": "916b5e7e57c68251333e96759c187774"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Steve Pike",
+  "story": [
+    {
+      "type": "html",
+      "text": "I have developed my own [[Wiki Wiki]] clone called [[Pikie Pikie]], written in Python, and based on [[Piki Piki]].",
+      "id": "b1a2d83ff3b7d4b5d3aa5e8543edc2ea"
+    },
+    {
+      "type": "html",
+      "text": "\nYou can find the current status of this project at [http://pikie.dyndns.org/ pikie.dyndns.org], and the latest version is available for download from [http://pikie.dyndns.org/cgi/pikie.py?DownloadPage pikie.dyndns.org].",
+      "id": "b90e99ecf4c39f2f080a6e7c28ed92cc"
+    },
+    {
+      "type": "html",
+      "text": "\nI can also be reached at mailto:steve.pike@oztourer.nl",
+      "id": "1e0967d921a798a2aac0ad5c3745ebe6"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "45a54ab2be5b7ad20c86d75a83e50627"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "13b0da5d6112526ad58dd08a98b0a30f"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevePike c2.com]",
+      "id": "5792a4324303b09ec585e8051cb67015"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1136503393000,
+      "id": "695127d15d1c66943a92d739082b80ff",
+      "type": "create",
+      "item": {
+        "title": "Steve Pike",
+        "story": [
+          {
+            "type": "html",
+            "text": "I have developed my own [[Wiki Wiki]] clone called [[Pikie Pikie]], written in Python, and based on [[Piki Piki]].",
+            "id": "b1a2d83ff3b7d4b5d3aa5e8543edc2ea"
+          },
+          {
+            "type": "html",
+            "text": "\nYou can find the current status of this project at [http://pikie.dyndns.org/ pikie.dyndns.org], and the latest version is available for download from [http://pikie.dyndns.org/cgi/pikie.py?DownloadPage pikie.dyndns.org].",
+            "id": "b90e99ecf4c39f2f080a6e7c28ed92cc"
+          },
+          {
+            "type": "html",
+            "text": "\nI can also be reached at mailto:steve.pike@oztourer.nl",
+            "id": "1e0967d921a798a2aac0ad5c3745ebe6"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "45a54ab2be5b7ad20c86d75a83e50627"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "13b0da5d6112526ad58dd08a98b0a30f"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevePike c2.com]",
+            "id": "5792a4324303b09ec585e8051cb67015"
+          }
+        ]
+      }
+    }
+  ]
+}

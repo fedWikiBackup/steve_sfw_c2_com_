@@ -1,0 +1,87 @@
+{
+  "title": "Steve Willer",
+  "story": [
+    {
+      "type": "html",
+      "text": "A GUI programmer, web developer, Linux hack (not hacker, really), and burgeoning [[Evil Manager]]. Home page sitting unfinished at [http://www.willer.ca/steve/ www.willer.ca] . It seems like such a chore to update a web page when your job is all about the web... so it never gets done.",
+      "id": "59ca87fbf852cd836fcc379af6fff224"
+    },
+    {
+      "type": "html",
+      "text": "\nAnyway, interestingly, this is the first link you see if you search for \"steve willer\" on Google. So I'll put primary info here:",
+      "id": "841a833eb701af0a2e2057f9cfa1311b"
+    },
+    {
+      "type": "html",
+      "text": " personal email:<br>steve@willer.ca",
+      "id": "f97a12b1c00da12e6fd3ee03e847044f"
+    },
+    {
+      "type": "html",
+      "text": " work email:<br>willer@klickit.com (I work at Klick Communications in Toronto, [http://www.klickit.com www.klickit.com])",
+      "id": "ff1b7a4633b7c135c6103d2cebd03d03"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "60f7042e01b25e80f49d71b65ac35ab9"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "50207098b937f589a3664524b9299bde"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveWiller c2.com]",
+      "id": "659f2e7225bf68b28e6391214adfdb06"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1143733280000,
+      "id": "b47c6d0d27bb1e6dca2bf49e40285219",
+      "type": "create",
+      "item": {
+        "title": "Steve Willer",
+        "story": [
+          {
+            "type": "html",
+            "text": "A GUI programmer, web developer, Linux hack (not hacker, really), and burgeoning [[Evil Manager]]. Home page sitting unfinished at [http://www.willer.ca/steve/ www.willer.ca] . It seems like such a chore to update a web page when your job is all about the web... so it never gets done.",
+            "id": "59ca87fbf852cd836fcc379af6fff224"
+          },
+          {
+            "type": "html",
+            "text": "\nAnyway, interestingly, this is the first link you see if you search for \"steve willer\" on Google. So I'll put primary info here:",
+            "id": "841a833eb701af0a2e2057f9cfa1311b"
+          },
+          {
+            "type": "html",
+            "text": " personal email:<br>steve@willer.ca",
+            "id": "f97a12b1c00da12e6fd3ee03e847044f"
+          },
+          {
+            "type": "html",
+            "text": " work email:<br>willer@klickit.com (I work at Klick Communications in Toronto, [http://www.klickit.com www.klickit.com])",
+            "id": "ff1b7a4633b7c135c6103d2cebd03d03"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "60f7042e01b25e80f49d71b65ac35ab9"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "50207098b937f589a3664524b9299bde"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveWiller c2.com]",
+            "id": "659f2e7225bf68b28e6391214adfdb06"
+          }
+        ]
+      }
+    }
+  ]
+}

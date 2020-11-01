@@ -1,0 +1,67 @@
+{
+  "title": "Steve Gibson",
+  "story": [
+    {
+      "type": "html",
+      "text": "[[Steve Gibson]] is a software developer specializing in assembly language programming for Windows, low level communication protocols, Internet security, and removable hard disk drive technologies.  [http://www.grc.com www.grc.com].",
+      "id": "e55451d9ba36f572943fd7196c5643b4"
+    },
+    {
+      "type": "html",
+      "text": "\nBased on his site being hit by a distributed denial of service recently, he started writing and posting a series of articles at the site about the fundamental infrastructure flaws in the Internet which allow disgruntled pre-teens to utterly disable any site they wish.  He also has some strongly worded opinions about how Microsoft is failing to take seriously their distribution of easily cracked software, and how WindowsXP will be the tool of choice for future DDOS attacks that may make the Internet mostly unusable.  His correspondence with Microsoft, At<b></b>Home, and other companies and their replies are particularly interesting.",
+      "id": "0022ce5632bfe458513e84aef2a7f641"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "db824d52a863915cce2994a3330ec6ab"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Person]]",
+      "id": "f0dfe80521dd62266460720f96207ab1"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveGibson c2.com]",
+      "id": "069500f2376b1c38b1bb5e494e81c700"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1410553078000,
+      "id": "7d72e0fae41ffa8196d3189c03415b62",
+      "type": "create",
+      "item": {
+        "title": "Steve Gibson",
+        "story": [
+          {
+            "type": "html",
+            "text": "[[Steve Gibson]] is a software developer specializing in assembly language programming for Windows, low level communication protocols, Internet security, and removable hard disk drive technologies.  [http://www.grc.com www.grc.com].",
+            "id": "e55451d9ba36f572943fd7196c5643b4"
+          },
+          {
+            "type": "html",
+            "text": "\nBased on his site being hit by a distributed denial of service recently, he started writing and posting a series of articles at the site about the fundamental infrastructure flaws in the Internet which allow disgruntled pre-teens to utterly disable any site they wish.  He also has some strongly worded opinions about how Microsoft is failing to take seriously their distribution of easily cracked software, and how WindowsXP will be the tool of choice for future DDOS attacks that may make the Internet mostly unusable.  His correspondence with Microsoft, At<b></b>Home, and other companies and their replies are particularly interesting.",
+            "id": "0022ce5632bfe458513e84aef2a7f641"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "db824d52a863915cce2994a3330ec6ab"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Person]]",
+            "id": "f0dfe80521dd62266460720f96207ab1"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveGibson c2.com]",
+            "id": "069500f2376b1c38b1bb5e494e81c700"
+          }
+        ]
+      }
+    }
+  ]
+}

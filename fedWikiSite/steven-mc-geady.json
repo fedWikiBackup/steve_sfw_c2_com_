@@ -1,0 +1,97 @@
+{
+  "title": "Steven Mc Geady",
+  "story": [
+    {
+      "type": "html",
+      "text": "Former itinerant programmer who went on to debase himself in management.",
+      "id": "98ffcd4f18b56e43aae081f05a311708"
+    },
+    {
+      "type": "html",
+      "text": "\nEx of:",
+      "id": "6d8ee57215b424d2e76d37fb95d78257"
+    },
+    {
+      "type": "html",
+      "text": "- [[Reed College]]",
+      "id": "e5804734dc7cd657b4a047676fc391bc"
+    },
+    {
+      "type": "html",
+      "text": "- Tektronix",
+      "id": "fa9875285a8cda03fd0913727609aecb"
+    },
+    {
+      "type": "html",
+      "text": "- Ann Arbor Terminals",
+      "id": "4d72b31f1492b852a723b6890f570a36"
+    },
+    {
+      "type": "html",
+      "text": "- [[Intel Corporation]]",
+      "id": "b7d1e8f4a57f668148b92fd760094df7"
+    },
+    {
+      "type": "html",
+      "text": "\nand elsewhere.",
+      "id": "2949a2fb1392b1f7bce7fa79efa7b63e"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevenMcGeady c2.com]",
+      "id": "624595ce0ddacde37eb31f47afb44370"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1011583488000,
+      "id": "f3ad90c6ee2f3a43c6e08268eda438bb",
+      "type": "create",
+      "item": {
+        "title": "Steven Mc Geady",
+        "story": [
+          {
+            "type": "html",
+            "text": "Former itinerant programmer who went on to debase himself in management.",
+            "id": "98ffcd4f18b56e43aae081f05a311708"
+          },
+          {
+            "type": "html",
+            "text": "\nEx of:",
+            "id": "6d8ee57215b424d2e76d37fb95d78257"
+          },
+          {
+            "type": "html",
+            "text": "- [[Reed College]]",
+            "id": "e5804734dc7cd657b4a047676fc391bc"
+          },
+          {
+            "type": "html",
+            "text": "- Tektronix",
+            "id": "fa9875285a8cda03fd0913727609aecb"
+          },
+          {
+            "type": "html",
+            "text": "- Ann Arbor Terminals",
+            "id": "4d72b31f1492b852a723b6890f570a36"
+          },
+          {
+            "type": "html",
+            "text": "- [[Intel Corporation]]",
+            "id": "b7d1e8f4a57f668148b92fd760094df7"
+          },
+          {
+            "type": "html",
+            "text": "\nand elsewhere.",
+            "id": "2949a2fb1392b1f7bce7fa79efa7b63e"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevenMcGeady c2.com]",
+            "id": "624595ce0ddacde37eb31f47afb44370"
+          }
+        ]
+      }
+    }
+  ]
+}

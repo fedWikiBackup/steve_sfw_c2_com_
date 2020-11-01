@@ -1,0 +1,87 @@
+{
+  "title": "Steve Peterson",
+  "story": [
+    {
+      "type": "html",
+      "text": "Howdy,",
+      "id": "7dace8ab8c7bca7fd76e1ed08f913471"
+    },
+    {
+      "type": "html",
+      "text": "\nI've been interested in patterns for a while now as you can read on my page in the [[Portland Pattern Repository]], Steve Peterson Bio ([http://c2.com/ppr/about/author/steve.html c2.com]).  My main interests these days is to make sure that the patterns I write are useful to someone \nand that a dialogue exists between the patterns community and the object analysis and design folks.  The former is an easier task as I actively promote the use of the [[Star Schema]] pattern language at Sequent Computer Systems ([http://www.sequent.com www.sequent.com]).  The latter goal is something I aspire to when engaged in conversations with folks from either group.",
+      "id": "00e1f311406330ae0db157606806fa08"
+    },
+    {
+      "type": "html",
+      "text": "\nSteve",
+      "id": "f41490756d1045b44064d611a6cc44c0"
+    },
+    {
+      "type": "html",
+      "text": "\nmailto:stevep@sequent.com",
+      "id": "83f56935c50bba86449256b5438eea97"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "c6c59ec8bab730c417c5f54277b5f13f"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "9a096d46b042bcb7ee8689bbb43d57da"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevePeterson c2.com]",
+      "id": "de1eb69697d202225ef05d08badf44cb"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1065182274000,
+      "id": "a2e22fee0fad27d0afca7aafdaea6b6a",
+      "type": "create",
+      "item": {
+        "title": "Steve Peterson",
+        "story": [
+          {
+            "type": "html",
+            "text": "Howdy,",
+            "id": "7dace8ab8c7bca7fd76e1ed08f913471"
+          },
+          {
+            "type": "html",
+            "text": "\nI've been interested in patterns for a while now as you can read on my page in the [[Portland Pattern Repository]], Steve Peterson Bio ([http://c2.com/ppr/about/author/steve.html c2.com]).  My main interests these days is to make sure that the patterns I write are useful to someone \nand that a dialogue exists between the patterns community and the object analysis and design folks.  The former is an easier task as I actively promote the use of the [[Star Schema]] pattern language at Sequent Computer Systems ([http://www.sequent.com www.sequent.com]).  The latter goal is something I aspire to when engaged in conversations with folks from either group.",
+            "id": "00e1f311406330ae0db157606806fa08"
+          },
+          {
+            "type": "html",
+            "text": "\nSteve",
+            "id": "f41490756d1045b44064d611a6cc44c0"
+          },
+          {
+            "type": "html",
+            "text": "\nmailto:stevep@sequent.com",
+            "id": "83f56935c50bba86449256b5438eea97"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "c6c59ec8bab730c417c5f54277b5f13f"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "9a096d46b042bcb7ee8689bbb43d57da"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevePeterson c2.com]",
+            "id": "de1eb69697d202225ef05d08badf44cb"
+          }
+        ]
+      }
+    }
+  ]
+}

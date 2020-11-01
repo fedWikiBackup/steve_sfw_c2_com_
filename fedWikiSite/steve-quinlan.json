@@ -1,0 +1,57 @@
+{
+  "title": "Steve Quinlan",
+  "story": [
+    {
+      "type": "html",
+      "text": "Working with Rails - [http://www.workingwithrails.com/person/8311-steve-quinlan www.workingwithrails.com]",
+      "id": "20fddfa4a0acc8dbc1d1694e5e73ac76"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "fd0ee4fb3409d96a2f5282fc5b1b148f"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "4f118d7ce322f8147aeb7c2b8d40f159"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveQuinlan c2.com]",
+      "id": "7e87b60a95283f1f132797116cfe6691"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1381321258000,
+      "id": "5dff03e8edb27e9b8916f593abf2169a",
+      "type": "create",
+      "item": {
+        "title": "Steve Quinlan",
+        "story": [
+          {
+            "type": "html",
+            "text": "Working with Rails - [http://www.workingwithrails.com/person/8311-steve-quinlan www.workingwithrails.com]",
+            "id": "20fddfa4a0acc8dbc1d1694e5e73ac76"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "fd0ee4fb3409d96a2f5282fc5b1b148f"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "4f118d7ce322f8147aeb7c2b8d40f159"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveQuinlan c2.com]",
+            "id": "7e87b60a95283f1f132797116cfe6691"
+          }
+        ]
+      }
+    }
+  ]
+}

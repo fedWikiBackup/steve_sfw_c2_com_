@@ -1,0 +1,67 @@
+{
+  "title": "Steve Lackey",
+  "story": [
+    {
+      "type": "html",
+      "text": "I used to run a NYC/New Jersey transit-related website at [deleted], with a simple itinerary planner.  The site also features a transit-related wiki: [deleted].",
+      "id": "6f613653096b62ce26c7efa79db6437f"
+    },
+    {
+      "type": "html",
+      "text": "\nI'm also big fan of XML-related technologies.",
+      "id": "99146095846d1877a264232e2d214136"
+    },
+    {
+      "type": "html",
+      "text": "\nCurrently researching social, mobile computing, web services, and transit systems as a PhD Candidate in Albany, NY.",
+      "id": "7123ec79c9708b9ff5d1d573489d7f59"
+    },
+    {
+      "type": "html",
+      "text": "---\n[[Category Home Page]] ",
+      "id": "a9b702fac671c843cb917d1aa1078346"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveLackey c2.com]",
+      "id": "3e2beb877ddec88e8ca61285c453ffd1"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1176466176000,
+      "id": "6e7b563a43956159dad5044f1381fb26",
+      "type": "create",
+      "item": {
+        "title": "Steve Lackey",
+        "story": [
+          {
+            "type": "html",
+            "text": "I used to run a NYC/New Jersey transit-related website at [deleted], with a simple itinerary planner.  The site also features a transit-related wiki: [deleted].",
+            "id": "6f613653096b62ce26c7efa79db6437f"
+          },
+          {
+            "type": "html",
+            "text": "\nI'm also big fan of XML-related technologies.",
+            "id": "99146095846d1877a264232e2d214136"
+          },
+          {
+            "type": "html",
+            "text": "\nCurrently researching social, mobile computing, web services, and transit systems as a PhD Candidate in Albany, NY.",
+            "id": "7123ec79c9708b9ff5d1d573489d7f59"
+          },
+          {
+            "type": "html",
+            "text": "---\n[[Category Home Page]] ",
+            "id": "a9b702fac671c843cb917d1aa1078346"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveLackey c2.com]",
+            "id": "3e2beb877ddec88e8ca61285c453ffd1"
+          }
+        ]
+      }
+    }
+  ]
+}

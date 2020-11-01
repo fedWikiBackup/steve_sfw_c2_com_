@@ -1,0 +1,127 @@
+{
+  "title": "Steve Metsker",
+  "story": [
+    {
+      "type": "html",
+      "text": "mailto:Steve dot Metsker@acm.org",
+      "id": "5a4a03f519771f9804ea6f47cfc9754a"
+    },
+    {
+      "type": "html",
+      "text": "\nI'm a developer, working mostly in Java and C# these days. I live in Richmond now and I work for Dominion Digital as a consultant.",
+      "id": "8fc14d94164fa8d43995be5841b2bfa4"
+    },
+    {
+      "type": "html",
+      "text": "\nI've been presenting tutorials at Oopsla since 1999. I particularly like creating and leading interactive sessions, none moreso than [[Dungeons And Patterns]] that I usually copresent with [[Bill Wake]]. ",
+      "id": "dd03f1ce804b15a3e304ef182440ca90"
+    },
+    {
+      "type": "html",
+      "text": "\nMy first book, \"Building Parsers with Java,\" came out in March, 2001. My second book, the \"[[Design Patterns Java Workbook]],\" came out in April, 2002, and \"Design Patterns in C#\" appeared in May, 2004.  \"Design Patterns In Java\" (co-authored with [[Bill Wake]]) came out in April, 2006.",
+      "id": "0f9c02478028515df91b08bfaaa7f327"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "9a56e800b673ce1d4672c0a7396f184b"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]] [[Category Author]]",
+      "id": "6d73fb45d792a145d701be0f1273c504"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "9a56e800b673ce1d4672c0a7396f184b"
+    },
+    {
+      "type": "html",
+      "text": "Steven John Metsker passed away on Friday, February 8, 2008 after a short illness with cancer. Aged 49, he is survived by his loving wife, Alison, and their daughters, Sarah-Jane and Emma-Kate. Having earned Engineering degrees from both the Colorado State University and the University of Massachusetts, Steve was accomplished in a profession for which he had great passion. Born in Colorado, he also lived in Massachusetts, Maine, Texas, Switzerland, Kentucky, England, and Richmond. He made many friends everywhere he went. A loving and caring husband, father, brother, son, friend, and colleague, he was also a humble and wise mentor. He was a positive and loving influence on all of us, who will miss him dearly. In lieu of flowers please send donations to St. Baldrick's fund raising program for childhood cancer or to Our Lady's Children's Hospital, Dublin Ireland.  Memorial Service was held at 3pm Sunday, February 10, 2008 at the First Unitarian Universalist Church, 1000 Blanton Avenue, Richmond VA (804) 355-0777.",
+      "id": "1df03d2e1c98aee134d69ac163106981"
+    },
+    {
+      "type": "html",
+      "text": "\nI first met Steve at an early pattern writing workshop I presented for [[Sema Tech]]. By the afternoon of the last day everyone was fried so we took a frisbee out into a vacant lot and spent half an hour running and throwing and generally getting sweaty. Steve was as happy and intense throwing that frisbee as he was trying to wrap his head around this new pattern stuff. Since then I have appreciated his writing. He was clear, thoughtful, and perceptive. <i>Building Parsers with Java</i> is a beautiful piece of work--simple, clear, useful, clever in its use of objects, and bravely bucking the \"big parser technology\" trend. --[[Kent Beck]]",
+      "id": "e90ae57e97f2bcfe74fe907ba1c0efaa"
+    },
+    {
+      "type": "html",
+      "text": "\nThis is very sad news. Steve was a nice guy and always fun to work with. I remember how he sometimes at work liked to talk about how quick his little daughter was picking up new things and how amazing this was to him. You could see he felt happy at those moments. I wish his family strength to cope with the loss. Steve will remain a treasure in our hearts. --Oliver Plohmann, former Autoline team",
+      "id": "3edd1b79bd0b8cce81be08db5bff8b84"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveMetsker c2.com]",
+      "id": "8b27337e9e20cff5f2149400f6ed431f"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1260812063000,
+      "id": "2657a3a710c8f673437d65743248efac",
+      "type": "create",
+      "item": {
+        "title": "Steve Metsker",
+        "story": [
+          {
+            "type": "html",
+            "text": "mailto:Steve dot Metsker@acm.org",
+            "id": "5a4a03f519771f9804ea6f47cfc9754a"
+          },
+          {
+            "type": "html",
+            "text": "\nI'm a developer, working mostly in Java and C# these days. I live in Richmond now and I work for Dominion Digital as a consultant.",
+            "id": "8fc14d94164fa8d43995be5841b2bfa4"
+          },
+          {
+            "type": "html",
+            "text": "\nI've been presenting tutorials at Oopsla since 1999. I particularly like creating and leading interactive sessions, none moreso than [[Dungeons And Patterns]] that I usually copresent with [[Bill Wake]]. ",
+            "id": "dd03f1ce804b15a3e304ef182440ca90"
+          },
+          {
+            "type": "html",
+            "text": "\nMy first book, \"Building Parsers with Java,\" came out in March, 2001. My second book, the \"[[Design Patterns Java Workbook]],\" came out in April, 2002, and \"Design Patterns in C#\" appeared in May, 2004.  \"Design Patterns In Java\" (co-authored with [[Bill Wake]]) came out in April, 2006.",
+            "id": "0f9c02478028515df91b08bfaaa7f327"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "9a56e800b673ce1d4672c0a7396f184b"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]] [[Category Author]]",
+            "id": "6d73fb45d792a145d701be0f1273c504"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "9a56e800b673ce1d4672c0a7396f184b"
+          },
+          {
+            "type": "html",
+            "text": "Steven John Metsker passed away on Friday, February 8, 2008 after a short illness with cancer. Aged 49, he is survived by his loving wife, Alison, and their daughters, Sarah-Jane and Emma-Kate. Having earned Engineering degrees from both the Colorado State University and the University of Massachusetts, Steve was accomplished in a profession for which he had great passion. Born in Colorado, he also lived in Massachusetts, Maine, Texas, Switzerland, Kentucky, England, and Richmond. He made many friends everywhere he went. A loving and caring husband, father, brother, son, friend, and colleague, he was also a humble and wise mentor. He was a positive and loving influence on all of us, who will miss him dearly. In lieu of flowers please send donations to St. Baldrick's fund raising program for childhood cancer or to Our Lady's Children's Hospital, Dublin Ireland.  Memorial Service was held at 3pm Sunday, February 10, 2008 at the First Unitarian Universalist Church, 1000 Blanton Avenue, Richmond VA (804) 355-0777.",
+            "id": "1df03d2e1c98aee134d69ac163106981"
+          },
+          {
+            "type": "html",
+            "text": "\nI first met Steve at an early pattern writing workshop I presented for [[Sema Tech]]. By the afternoon of the last day everyone was fried so we took a frisbee out into a vacant lot and spent half an hour running and throwing and generally getting sweaty. Steve was as happy and intense throwing that frisbee as he was trying to wrap his head around this new pattern stuff. Since then I have appreciated his writing. He was clear, thoughtful, and perceptive. <i>Building Parsers with Java</i> is a beautiful piece of work--simple, clear, useful, clever in its use of objects, and bravely bucking the \"big parser technology\" trend. --[[Kent Beck]]",
+            "id": "e90ae57e97f2bcfe74fe907ba1c0efaa"
+          },
+          {
+            "type": "html",
+            "text": "\nThis is very sad news. Steve was a nice guy and always fun to work with. I remember how he sometimes at work liked to talk about how quick his little daughter was picking up new things and how amazing this was to him. You could see he felt happy at those moments. I wish his family strength to cope with the loss. Steve will remain a treasure in our hearts. --Oliver Plohmann, former Autoline team",
+            "id": "3edd1b79bd0b8cce81be08db5bff8b84"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveMetsker c2.com]",
+            "id": "8b27337e9e20cff5f2149400f6ed431f"
+          }
+        ]
+      }
+    }
+  ]
+}

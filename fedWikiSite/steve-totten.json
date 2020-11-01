@@ -1,0 +1,67 @@
+{
+  "title": "Steve Totten",
+  "story": [
+    {
+      "type": "html",
+      "text": "Hello, my name is Steve Totten (mailto:totten_s@ociweb.com).  I am an object oriented software engineer specializing in developing and teaching about distributed object architectures with CORBA[1].  ",
+      "id": "8da63bc4a19ed03f040204ae8e905f47"
+    },
+    {
+      "type": "html",
+      "text": "\nI work for a company in St. Louis, Missouri, USA called Object Computing, Inc. ([http://www.ociweb.com www.ociweb.com])   We provide commercial support, training, and documentation for The ACE ORB (TAO) ([http://www.theaceorb.com www.theaceorb.com]), an open source C++ CORBA compliant ORB developed by the Centers for Distributed Object Computing at Washington University in St. Louis [2] and University of California at Irvine [3].",
+      "id": "e2e88a151d7b2b4ea6874f8b719b4d0d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "71d82995c7237bcc0e887d856f725f22"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "893b04668f4d4006fa81e13bc642c6d5"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveTotten c2.com]",
+      "id": "e3309ccdd6acbfcbaec10a434ca64f8f"
+    }
+  ],
+  "journal": [
+    {
+      "date": 984258632000,
+      "id": "ff83215a029d0b317437a9e613ebef18",
+      "type": "create",
+      "item": {
+        "title": "Steve Totten",
+        "story": [
+          {
+            "type": "html",
+            "text": "Hello, my name is Steve Totten (mailto:totten_s@ociweb.com).  I am an object oriented software engineer specializing in developing and teaching about distributed object architectures with CORBA[1].  ",
+            "id": "8da63bc4a19ed03f040204ae8e905f47"
+          },
+          {
+            "type": "html",
+            "text": "\nI work for a company in St. Louis, Missouri, USA called Object Computing, Inc. ([http://www.ociweb.com www.ociweb.com])   We provide commercial support, training, and documentation for The ACE ORB (TAO) ([http://www.theaceorb.com www.theaceorb.com]), an open source C++ CORBA compliant ORB developed by the Centers for Distributed Object Computing at Washington University in St. Louis [2] and University of California at Irvine [3].",
+            "id": "e2e88a151d7b2b4ea6874f8b719b4d0d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "71d82995c7237bcc0e887d856f725f22"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "893b04668f4d4006fa81e13bc642c6d5"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveTotten c2.com]",
+            "id": "e3309ccdd6acbfcbaec10a434ca64f8f"
+          }
+        ]
+      }
+    }
+  ]
+}

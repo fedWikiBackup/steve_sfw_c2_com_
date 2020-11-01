@@ -1,0 +1,67 @@
+{
+  "title": "Steven La Favor",
+  "story": [
+    {
+      "type": "html",
+      "text": "<i>Steven, [[Are You There]]? [[Orphan Page]], last edit 2003-09-30</i>",
+      "id": "8517aa92e6ca09613b7cad94b655f7b1"
+    },
+    {
+      "type": "html",
+      "text": "\nSteven La<b></b>Favor is an OO consultant whose been working in Smalltalk for many years. He's worked mainly for financial and insurance clients, but also dabbled a little bit in the pharmaceutical and shipping industries.",
+      "id": "c0a8861b3b2fb9abd53d332e7c497c28"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "3c1e8ebdc4d1c7a3273a6b5b703b780b"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "c7dc8d509d6eef80cd060682689f0ddb"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevenLaFavor c2.com]",
+      "id": "60444ca61d519e752ee9ad066c1446f0"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1127849929000,
+      "id": "1dc6d4c8042eca822f8c822633024014",
+      "type": "create",
+      "item": {
+        "title": "Steven La Favor",
+        "story": [
+          {
+            "type": "html",
+            "text": "<i>Steven, [[Are You There]]? [[Orphan Page]], last edit 2003-09-30</i>",
+            "id": "8517aa92e6ca09613b7cad94b655f7b1"
+          },
+          {
+            "type": "html",
+            "text": "\nSteven La<b></b>Favor is an OO consultant whose been working in Smalltalk for many years. He's worked mainly for financial and insurance clients, but also dabbled a little bit in the pharmaceutical and shipping industries.",
+            "id": "c0a8861b3b2fb9abd53d332e7c497c28"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "3c1e8ebdc4d1c7a3273a6b5b703b780b"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "c7dc8d509d6eef80cd060682689f0ddb"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevenLaFavor c2.com]",
+            "id": "60444ca61d519e752ee9ad066c1446f0"
+          }
+        ]
+      }
+    }
+  ]
+}

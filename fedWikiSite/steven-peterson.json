@@ -1,0 +1,67 @@
+{
+  "title": "Steven Peterson",
+  "story": [
+    {
+      "type": "html",
+      "text": "System Architect located in beautiful Bloomington, Minnesota.  System Architect at Lawson Software as of February 2004.",
+      "id": "44f78bd43f66708913ec0e7249f2f284"
+    },
+    {
+      "type": "html",
+      "text": "<i>Welcome to Wiki</i>",
+      "id": "d0ebda0665770cc2e92eac16d27d0ecc"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "bcbb0312a90735c18bd6a43f3971c687"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "9df049e450092cb470eea10eb7f1162a"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevenPeterson c2.com]",
+      "id": "8dc22e44d3aab6c200e7d70720c9d5f3"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1085135860000,
+      "id": "f9c5483f7f0ab64059fcf722b01c75ad",
+      "type": "create",
+      "item": {
+        "title": "Steven Peterson",
+        "story": [
+          {
+            "type": "html",
+            "text": "System Architect located in beautiful Bloomington, Minnesota.  System Architect at Lawson Software as of February 2004.",
+            "id": "44f78bd43f66708913ec0e7249f2f284"
+          },
+          {
+            "type": "html",
+            "text": "<i>Welcome to Wiki</i>",
+            "id": "d0ebda0665770cc2e92eac16d27d0ecc"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "bcbb0312a90735c18bd6a43f3971c687"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "9df049e450092cb470eea10eb7f1162a"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevenPeterson c2.com]",
+            "id": "8dc22e44d3aab6c200e7d70720c9d5f3"
+          }
+        ]
+      }
+    }
+  ]
+}

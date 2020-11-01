@@ -1,0 +1,67 @@
+{
+  "title": "Steve Yen",
+  "story": [
+    {
+      "type": "html",
+      "text": "Steve Yen is a co-founder and the VP Technology at Escalate.  Did KIVA too.",
+      "id": "32585bdd21b78067925814f995771b14"
+    },
+    {
+      "type": "html",
+      "text": "\nLanguage Mining Thesis: for a rich vein of powerful language ideas, just seek out Lisp / [[Common Lisp]].  Ideas found there originally from the 1960's and 1980's have yet to be brought to popular light.",
+      "id": "da21ff13c44ba79b46f9884c3dc2376c"
+    },
+    {
+      "type": "html",
+      "text": "\nCurrent excitement: learning that [[Java Script]] is actually Lisp with a Java syntax.",
+      "id": "b8a34d91740f874c2cf07afd1cc30978"
+    },
+    {
+      "type": "html",
+      "text": " [[Douglas Crockford]] - [http://www.crockford.com/javascript/javascript.html www.crockford.com]",
+      "id": "8e3f32678db152d2f9f1f5e526ac258e"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveYen c2.com]",
+      "id": "d065eca0f0e007d7b5d4adfadc6b02ec"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1064642034000,
+      "id": "e1fcf2d06c16d4008f2fa3a816e12d23",
+      "type": "create",
+      "item": {
+        "title": "Steve Yen",
+        "story": [
+          {
+            "type": "html",
+            "text": "Steve Yen is a co-founder and the VP Technology at Escalate.  Did KIVA too.",
+            "id": "32585bdd21b78067925814f995771b14"
+          },
+          {
+            "type": "html",
+            "text": "\nLanguage Mining Thesis: for a rich vein of powerful language ideas, just seek out Lisp / [[Common Lisp]].  Ideas found there originally from the 1960's and 1980's have yet to be brought to popular light.",
+            "id": "da21ff13c44ba79b46f9884c3dc2376c"
+          },
+          {
+            "type": "html",
+            "text": "\nCurrent excitement: learning that [[Java Script]] is actually Lisp with a Java syntax.",
+            "id": "b8a34d91740f874c2cf07afd1cc30978"
+          },
+          {
+            "type": "html",
+            "text": " [[Douglas Crockford]] - [http://www.crockford.com/javascript/javascript.html www.crockford.com]",
+            "id": "8e3f32678db152d2f9f1f5e526ac258e"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveYen c2.com]",
+            "id": "d065eca0f0e007d7b5d4adfadc6b02ec"
+          }
+        ]
+      }
+    }
+  ]
+}

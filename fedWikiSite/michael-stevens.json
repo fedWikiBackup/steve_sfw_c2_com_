@@ -1,0 +1,37 @@
+{
+  "title": "Michael Stevens",
+  "story": [
+    {
+      "type": "html",
+      "text": "a",
+      "id": "ef42b66c873911c0a4577ec8677d0731"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?MichaelStevens c2.com]",
+      "id": "c10a8cf1a84c0ef529f58fd20f9620c5"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1216612247000,
+      "id": "08ae932dde0dde46caf62667b0f86de0",
+      "type": "create",
+      "item": {
+        "title": "Michael Stevens",
+        "story": [
+          {
+            "type": "html",
+            "text": "a",
+            "id": "ef42b66c873911c0a4577ec8677d0731"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?MichaelStevens c2.com]",
+            "id": "c10a8cf1a84c0ef529f58fd20f9620c5"
+          }
+        ]
+      }
+    }
+  ]
+}
