@@ -1,0 +1,67 @@
+{
+  "title": "Steve Maring",
+  "story": [
+    {
+      "type": "html",
+      "text": "an instance of [[Java Developer]]",
+      "id": "e1c874bf290a5f0c0f58d4f53a173366"
+    },
+    {
+      "type": "html",
+      "text": "\nmailto:steve@maring.org -- [[Steve Maring]]",
+      "id": "97ec1f160a9194ec00cc8e1e37a044d9"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "41c89b7bba07518249e3385e30e9f817"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "ca7ac4a1ab79d330e87d2803bd24a13d"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveMaring c2.com]",
+      "id": "349d1c8326129cb51f9482c9b78aa019"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1059040445000,
+      "id": "bb3c9f0265a38c1a61ba3529dd300b63",
+      "type": "create",
+      "item": {
+        "title": "Steve Maring",
+        "story": [
+          {
+            "type": "html",
+            "text": "an instance of [[Java Developer]]",
+            "id": "e1c874bf290a5f0c0f58d4f53a173366"
+          },
+          {
+            "type": "html",
+            "text": "\nmailto:steve@maring.org -- [[Steve Maring]]",
+            "id": "97ec1f160a9194ec00cc8e1e37a044d9"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "41c89b7bba07518249e3385e30e9f817"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "ca7ac4a1ab79d330e87d2803bd24a13d"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveMaring c2.com]",
+            "id": "349d1c8326129cb51f9482c9b78aa019"
+          }
+        ]
+      }
+    }
+  ]
+}
