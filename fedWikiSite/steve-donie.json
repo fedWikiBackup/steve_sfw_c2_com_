@@ -1,0 +1,87 @@
+{
+  "title": "Steve Donie",
+  "story": [
+    {
+      "type": "html",
+      "text": "<b>Update</b> September 2010",
+      "id": "3207a2515420766ca35d1ce59589c0de"
+    },
+    {
+      "type": "html",
+      "text": "\nMy website and blog are at [http://donie.endofinternet.org/ donie.endofinternet.org] ",
+      "id": "9b1261ccaecbc7d5923740414961d9d5"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "1cc9cf5bcf093ffd2ce662c039fe7d7d"
+    },
+    {
+      "type": "html",
+      "text": "Development Manager at Drillinginfo in Austin, TX. ",
+      "id": "c4fcd4795a2fb7356f31964bd334105e"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "1cc9cf5bcf093ffd2ce662c039fe7d7d"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "81931d6c4a2b636c4ffc136425d268b2"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveDonie c2.com]",
+      "id": "d0227c81cdfab73bf01eacd0c674c578"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1284117335000,
+      "id": "358a9281f655b1374489b7acd3a04994",
+      "type": "create",
+      "item": {
+        "title": "Steve Donie",
+        "story": [
+          {
+            "type": "html",
+            "text": "<b>Update</b> September 2010",
+            "id": "3207a2515420766ca35d1ce59589c0de"
+          },
+          {
+            "type": "html",
+            "text": "\nMy website and blog are at [http://donie.endofinternet.org/ donie.endofinternet.org] ",
+            "id": "9b1261ccaecbc7d5923740414961d9d5"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "1cc9cf5bcf093ffd2ce662c039fe7d7d"
+          },
+          {
+            "type": "html",
+            "text": "Development Manager at Drillinginfo in Austin, TX. ",
+            "id": "c4fcd4795a2fb7356f31964bd334105e"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "1cc9cf5bcf093ffd2ce662c039fe7d7d"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "81931d6c4a2b636c4ffc136425d268b2"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveDonie c2.com]",
+            "id": "d0227c81cdfab73bf01eacd0c674c578"
+          }
+        ]
+      }
+    }
+  ]
+}
