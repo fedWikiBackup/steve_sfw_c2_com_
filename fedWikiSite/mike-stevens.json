@@ -1,0 +1,57 @@
+{
+  "title": "Mike Stevens",
+  "story": [
+    {
+      "type": "html",
+      "text": "Mike Stevens is an employee of Hartford Financial Services and works with [[James Linn]]",
+      "id": "35bc28b3cef1c0201091865e186c5d8c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "2e02e215d642d57ff9496b28c9c2b6bd"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "d301020ac535d215a11debe6a96776b0"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?MikeStevens c2.com]",
+      "id": "5bb8cb7b311476b68a0d7a2908b39a3b"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1071868439000,
+      "id": "eba658f60c0547b4848c0a9ebc7b447f",
+      "type": "create",
+      "item": {
+        "title": "Mike Stevens",
+        "story": [
+          {
+            "type": "html",
+            "text": "Mike Stevens is an employee of Hartford Financial Services and works with [[James Linn]]",
+            "id": "35bc28b3cef1c0201091865e186c5d8c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "2e02e215d642d57ff9496b28c9c2b6bd"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "d301020ac535d215a11debe6a96776b0"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?MikeStevens c2.com]",
+            "id": "5bb8cb7b311476b68a0d7a2908b39a3b"
+          }
+        ]
+      }
+    }
+  ]
+}
