@@ -1,0 +1,117 @@
+{
+  "title": "Steve Schafer",
+  "story": [
+    {
+      "type": "html",
+      "text": "I am a freelance software developer, using mostly [[Delphi Language]], with a bit of Java here and there. I also dabble in various aspects of [[Functional Programming]]. (I've even implemented [[Lazy Evaluation]] in a parser written in [[Delphi Language]]--I was amazed at how much it simplified the task of parsing.) I serve as Chief Technology Officer for Fenestra Technologies Corporation ([http://www.fenestra.com/ www.fenestra.com]), a software development firm located just outside the beltway in Germantown, Maryland, USA.",
+      "id": "774fbb6bf992e7997b297bedd8090ac5"
+    },
+    {
+      "type": "html",
+      "text": "\nI recently moved to Ohio ([http://www.state.oh.us/ www.state.oh.us]), after living in Oklahoma ([http://www.state.oh.us/ www.state.oh.us]) for eleven years.",
+      "id": "078473c464ee678f70caf84b3876814a"
+    },
+    {
+      "type": "html",
+      "text": "\nI used to be a physics professor at Oklahoma State University ([http://www.okstate.edu/ www.okstate.edu]), but I eventually decided that the academic life was not for me. I now work at home. This gives me the decided advantage of not having to wear clothes while I work. This is especially beneficial during the summer. While I work at home, I sit in an [[Aeron Chair]].",
+      "id": "e239331e5199bee76c0041f577793508"
+    },
+    {
+      "type": "html",
+      "text": "\nI am interested in all aspects of software development, from methodologies (e.g., [[Extreme Programming]]) to [[Software Configuration Management]] to [[Programming Language]]s. I still haven't found the time to sit down and learn Smalltalk.",
+      "id": "44cdbb37835ab2457dc89f4a9f033282"
+    },
+    {
+      "type": "html",
+      "text": "\nMy wife is a professor at Ohio University ([http://www.ohio.edu/ www.ohio.edu]), where she studies nervous system development and physiology in <i>Caenorhabditis elegans</i> ([http://elegans.swmed.edu/ elegans.swmed.edu]), a common nematode that lives in the soil. It's used as a model organism to study basic physiological processes that are too complicated to study in more complex organisms.",
+      "id": "f5cd6159046418354e3471b6ecc1f083"
+    },
+    {
+      "type": "html",
+      "text": "\nWhen we're not working (which doesn't add up to much), we're usually birding ([http://www.americanbirding.org/ www.americanbirding.org]).",
+      "id": "e8a96aeaf36cfe4f7ce87a996beed837"
+    },
+    {
+      "type": "html",
+      "text": "\nYou can reach me at mailto:steve@fenestra.com.",
+      "id": "9e0194af6f741a994e066af93a372cac"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "7776964148ea3be33f4449664c049bd6"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "cd964663762d1bc8fd863584f53615e1"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveSchafer c2.com]",
+      "id": "68612c3f572e4aaaa4add6e614d416cd"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1079751670000,
+      "id": "bb9317f839786cfed5b75063595c36ad",
+      "type": "create",
+      "item": {
+        "title": "Steve Schafer",
+        "story": [
+          {
+            "type": "html",
+            "text": "I am a freelance software developer, using mostly [[Delphi Language]], with a bit of Java here and there. I also dabble in various aspects of [[Functional Programming]]. (I've even implemented [[Lazy Evaluation]] in a parser written in [[Delphi Language]]--I was amazed at how much it simplified the task of parsing.) I serve as Chief Technology Officer for Fenestra Technologies Corporation ([http://www.fenestra.com/ www.fenestra.com]), a software development firm located just outside the beltway in Germantown, Maryland, USA.",
+            "id": "774fbb6bf992e7997b297bedd8090ac5"
+          },
+          {
+            "type": "html",
+            "text": "\nI recently moved to Ohio ([http://www.state.oh.us/ www.state.oh.us]), after living in Oklahoma ([http://www.state.oh.us/ www.state.oh.us]) for eleven years.",
+            "id": "078473c464ee678f70caf84b3876814a"
+          },
+          {
+            "type": "html",
+            "text": "\nI used to be a physics professor at Oklahoma State University ([http://www.okstate.edu/ www.okstate.edu]), but I eventually decided that the academic life was not for me. I now work at home. This gives me the decided advantage of not having to wear clothes while I work. This is especially beneficial during the summer. While I work at home, I sit in an [[Aeron Chair]].",
+            "id": "e239331e5199bee76c0041f577793508"
+          },
+          {
+            "type": "html",
+            "text": "\nI am interested in all aspects of software development, from methodologies (e.g., [[Extreme Programming]]) to [[Software Configuration Management]] to [[Programming Language]]s. I still haven't found the time to sit down and learn Smalltalk.",
+            "id": "44cdbb37835ab2457dc89f4a9f033282"
+          },
+          {
+            "type": "html",
+            "text": "\nMy wife is a professor at Ohio University ([http://www.ohio.edu/ www.ohio.edu]), where she studies nervous system development and physiology in <i>Caenorhabditis elegans</i> ([http://elegans.swmed.edu/ elegans.swmed.edu]), a common nematode that lives in the soil. It's used as a model organism to study basic physiological processes that are too complicated to study in more complex organisms.",
+            "id": "f5cd6159046418354e3471b6ecc1f083"
+          },
+          {
+            "type": "html",
+            "text": "\nWhen we're not working (which doesn't add up to much), we're usually birding ([http://www.americanbirding.org/ www.americanbirding.org]).",
+            "id": "e8a96aeaf36cfe4f7ce87a996beed837"
+          },
+          {
+            "type": "html",
+            "text": "\nYou can reach me at mailto:steve@fenestra.com.",
+            "id": "9e0194af6f741a994e066af93a372cac"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "7776964148ea3be33f4449664c049bd6"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "cd964663762d1bc8fd863584f53615e1"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveSchafer c2.com]",
+            "id": "68612c3f572e4aaaa4add6e614d416cd"
+          }
+        ]
+      }
+    }
+  ]
+}
