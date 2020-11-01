@@ -1,0 +1,127 @@
+{
+  "title": "Steve Wainstead",
+  "story": [
+    {
+      "type": "html",
+      "text": "Just another random hacker: ",
+      "id": "3dac7ef6e0db4617ccbb5bf4fd92243e"
+    },
+    {
+      "type": "html",
+      "text": "Aug 21, 2013:<br>Have been living in Las Vegas the past two years after traveling and telecommuting for over a year. Left NYC in 2010. Co-founded Vegas [[Give Camp]] ([http://vegasgivecamp.org vegasgivecamp.org]), started the Waverous LambdaMOO open source project, and founded the Las Vegas Developers Meetup.",
+      "id": "2b7e2f438670b657fc3da5017cba1947"
+    },
+    {
+      "type": "html",
+      "text": "Dec 10, 2003:<br>see my [[Advo Gato]] page [http://www.advogato.org/person/wainstead/ www.advogato.org], or my home page [http://www.panix.com/~swain/ www.panix.com], or the [[Php Wiki]] project [http://phpwiki.org/ phpwiki.org] if you're really interested in what I do. As of this writing I work at Fortunecity.com.",
+      "id": "7feb44565986c2a4a3fa3b102a0dd4b1"
+    },
+    {
+      "type": "html",
+      "text": "Oct 21, 1999:<br>I work at New York Times Digital. We've started using [[Wiki Wiki Web]] for internal documentation; first on a project to build a new content management system and now to document the company systems as a whole. So far people seem pretty enthusiastic about it. ",
+      "id": "744ad19f4b33d92931043d81c49f2b45"
+    },
+    {
+      "type": "html",
+      "text": "Nov 26,1999:<br>At this stage we want to merge the two Wikis. The problem is some people are creating new pages in the wrong Wiki; pages that document the project I'm working on are winding up in the company Wiki. The product managers really love the ease of use of the [[Wiki Wiki Web]], but they are growing unhappy with the simplified markup. I was slightly disappointed with the use of the Wikis as mere document-writing tools, but adoption of any sort was preferable to no documentation!",
+      "id": "7dc9cd5c9d101f98044d864ce2a38924"
+    },
+    {
+      "type": "html",
+      "text": "I wrote a Perl script to try to read both DBM files into two serparate hashes, and then write them out into a new DBM file with collisions fixed and so on. However the script keeps getting an error when it tries to write to the new DBM file; it gets a -1 returned, errno 2. It complains about a particular key but I can save the page in the new Wiki through the browser; I quit in frustration a few days ago, and will have to try it again soon.",
+      "id": "68c83cba4d2cb3b853d4bef76aa337bb"
+    },
+    {
+      "type": "html",
+      "text": "I have to give a presentation on collaborative document editing next week; I've been reading John Udell's <i>Practical Internet Groupware</i> (from O'Reilly) and studying up on WebDaV, Zope, and Amaya/Jigsaw. ",
+      "id": "41e3f41fc11566f917ade2895a5de37d"
+    },
+    {
+      "type": "html",
+      "text": " Dec 4, 1999:<br>I have made good progress on a PHP-based Wiki, called imaginatively enough [[Php Wiki]]. See the page for info.",
+      "id": "3fa4a48c2a44fc6a8d425c62a41028ea"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d5731e4d1e7555976a6be5511679d90f"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "582b40466cb05aafdfee44020385f978"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveWainstead c2.com]",
+      "id": "ef8132978919fa65ba42fd16e1422378"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1377106436000,
+      "id": "75739abf84083d1a1620e4ee0f58695a",
+      "type": "create",
+      "item": {
+        "title": "Steve Wainstead",
+        "story": [
+          {
+            "type": "html",
+            "text": "Just another random hacker: ",
+            "id": "3dac7ef6e0db4617ccbb5bf4fd92243e"
+          },
+          {
+            "type": "html",
+            "text": "Aug 21, 2013:<br>Have been living in Las Vegas the past two years after traveling and telecommuting for over a year. Left NYC in 2010. Co-founded Vegas [[Give Camp]] ([http://vegasgivecamp.org vegasgivecamp.org]), started the Waverous LambdaMOO open source project, and founded the Las Vegas Developers Meetup.",
+            "id": "2b7e2f438670b657fc3da5017cba1947"
+          },
+          {
+            "type": "html",
+            "text": "Dec 10, 2003:<br>see my [[Advo Gato]] page [http://www.advogato.org/person/wainstead/ www.advogato.org], or my home page [http://www.panix.com/~swain/ www.panix.com], or the [[Php Wiki]] project [http://phpwiki.org/ phpwiki.org] if you're really interested in what I do. As of this writing I work at Fortunecity.com.",
+            "id": "7feb44565986c2a4a3fa3b102a0dd4b1"
+          },
+          {
+            "type": "html",
+            "text": "Oct 21, 1999:<br>I work at New York Times Digital. We've started using [[Wiki Wiki Web]] for internal documentation; first on a project to build a new content management system and now to document the company systems as a whole. So far people seem pretty enthusiastic about it. ",
+            "id": "744ad19f4b33d92931043d81c49f2b45"
+          },
+          {
+            "type": "html",
+            "text": "Nov 26,1999:<br>At this stage we want to merge the two Wikis. The problem is some people are creating new pages in the wrong Wiki; pages that document the project I'm working on are winding up in the company Wiki. The product managers really love the ease of use of the [[Wiki Wiki Web]], but they are growing unhappy with the simplified markup. I was slightly disappointed with the use of the Wikis as mere document-writing tools, but adoption of any sort was preferable to no documentation!",
+            "id": "7dc9cd5c9d101f98044d864ce2a38924"
+          },
+          {
+            "type": "html",
+            "text": "I wrote a Perl script to try to read both DBM files into two serparate hashes, and then write them out into a new DBM file with collisions fixed and so on. However the script keeps getting an error when it tries to write to the new DBM file; it gets a -1 returned, errno 2. It complains about a particular key but I can save the page in the new Wiki through the browser; I quit in frustration a few days ago, and will have to try it again soon.",
+            "id": "68c83cba4d2cb3b853d4bef76aa337bb"
+          },
+          {
+            "type": "html",
+            "text": "I have to give a presentation on collaborative document editing next week; I've been reading John Udell's <i>Practical Internet Groupware</i> (from O'Reilly) and studying up on WebDaV, Zope, and Amaya/Jigsaw. ",
+            "id": "41e3f41fc11566f917ade2895a5de37d"
+          },
+          {
+            "type": "html",
+            "text": " Dec 4, 1999:<br>I have made good progress on a PHP-based Wiki, called imaginatively enough [[Php Wiki]]. See the page for info.",
+            "id": "3fa4a48c2a44fc6a8d425c62a41028ea"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d5731e4d1e7555976a6be5511679d90f"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "582b40466cb05aafdfee44020385f978"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveWainstead c2.com]",
+            "id": "ef8132978919fa65ba42fd16e1422378"
+          }
+        ]
+      }
+    }
+  ]
+}
