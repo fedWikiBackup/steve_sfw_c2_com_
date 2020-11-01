@@ -1,0 +1,87 @@
+{
+  "title": "Steve Dunham",
+  "story": [
+    {
+      "type": "html",
+      "text": "I'm a Software Engineer, Computer Scientist, and Mathematician. My home page\ncan be found at [http://www.cse.msu.edu/~dunham/ www.cse.msu.edu]",
+      "id": "8a0f16d8a4135b3276ad2e751e9441bc"
+    },
+    {
+      "type": "html",
+      "text": "\nI'm currently working for a company in San Francisco called Clever Machine. I'm intrigued by XP, but haven't yet had a chance to use it. My\ngeneral computer science interests are learning new languages and techniques, and advancing the art of programming.",
+      "id": "9f8c88e239918ce2c4fc2608530668bc"
+    },
+    {
+      "type": "html",
+      "text": "\nI also do a little work for the Debian Linux project.",
+      "id": "daa7c4029e106126f2666abd46a20572"
+    },
+    {
+      "type": "html",
+      "text": "\nIf you're in the Bay area and want to get together for a beer, drop me an email.",
+      "id": "860c8cfa7536584e7570414e26f96f1f"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "7f81b999d79587424b0a80296e27c939"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "647022237bfb82f38f4ccd7d52fc2a4a"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveDunham c2.com]",
+      "id": "21b65554b1df26d94fbf1d6f61337402"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1199012814000,
+      "id": "2b3c4abfc7ecd1da37ed4e7e99fe5e9d",
+      "type": "create",
+      "item": {
+        "title": "Steve Dunham",
+        "story": [
+          {
+            "type": "html",
+            "text": "I'm a Software Engineer, Computer Scientist, and Mathematician. My home page\ncan be found at [http://www.cse.msu.edu/~dunham/ www.cse.msu.edu]",
+            "id": "8a0f16d8a4135b3276ad2e751e9441bc"
+          },
+          {
+            "type": "html",
+            "text": "\nI'm currently working for a company in San Francisco called Clever Machine. I'm intrigued by XP, but haven't yet had a chance to use it. My\ngeneral computer science interests are learning new languages and techniques, and advancing the art of programming.",
+            "id": "9f8c88e239918ce2c4fc2608530668bc"
+          },
+          {
+            "type": "html",
+            "text": "\nI also do a little work for the Debian Linux project.",
+            "id": "daa7c4029e106126f2666abd46a20572"
+          },
+          {
+            "type": "html",
+            "text": "\nIf you're in the Bay area and want to get together for a beer, drop me an email.",
+            "id": "860c8cfa7536584e7570414e26f96f1f"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "7f81b999d79587424b0a80296e27c939"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "647022237bfb82f38f4ccd7d52fc2a4a"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveDunham c2.com]",
+            "id": "21b65554b1df26d94fbf1d6f61337402"
+          }
+        ]
+      }
+    }
+  ]
+}
