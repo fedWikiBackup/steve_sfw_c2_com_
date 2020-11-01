@@ -1,0 +1,87 @@
+{
+  "title": "Steve Jenson",
+  "story": [
+    {
+      "type": "html",
+      "text": "steve jenson",
+      "id": "fcb3b75fc766353690689dbe24aa3002"
+    },
+    {
+      "type": "html",
+      "text": "\nProgrammer.",
+      "id": "424c77c69c1c6c7654561bfdd53c5be7"
+    },
+    {
+      "type": "html",
+      "text": "\nmailto:stevej_att_pobox.com",
+      "id": "0937e250d80f6bc4380c2d3856b3cafe"
+    },
+    {
+      "type": "html",
+      "text": "<[http://saladwithsteve.com/ saladwithsteve.com]>",
+      "id": "d659ff3d714a388d9520606d824203e0"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "07c067f3aa41221f877f8a0eb9b71af3"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "c8a74db296c6eae13c0bdcbd26d551c4"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveJenson c2.com]",
+      "id": "d868d210d8dd27452e17278d456c013b"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1078479782000,
+      "id": "776d1a5994a3d901fe3475100c5cd075",
+      "type": "create",
+      "item": {
+        "title": "Steve Jenson",
+        "story": [
+          {
+            "type": "html",
+            "text": "steve jenson",
+            "id": "fcb3b75fc766353690689dbe24aa3002"
+          },
+          {
+            "type": "html",
+            "text": "\nProgrammer.",
+            "id": "424c77c69c1c6c7654561bfdd53c5be7"
+          },
+          {
+            "type": "html",
+            "text": "\nmailto:stevej_att_pobox.com",
+            "id": "0937e250d80f6bc4380c2d3856b3cafe"
+          },
+          {
+            "type": "html",
+            "text": "<[http://saladwithsteve.com/ saladwithsteve.com]>",
+            "id": "d659ff3d714a388d9520606d824203e0"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "07c067f3aa41221f877f8a0eb9b71af3"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "c8a74db296c6eae13c0bdcbd26d551c4"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveJenson c2.com]",
+            "id": "d868d210d8dd27452e17278d456c013b"
+          }
+        ]
+      }
+    }
+  ]
+}
