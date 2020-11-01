@@ -1,0 +1,37 @@
+{
+  "title": "Steve Howe",
+  "story": [
+    {
+      "type": "html",
+      "text": "Not the one that plays the guitar I'm afraid :-)",
+      "id": "fb8cf0e30e3a23d73ee5dd060af75fc7"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveHowe c2.com]",
+      "id": "355d05ab39ae46339e001781634533d1"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1050492355000,
+      "id": "c450d8683492cee64048a887aa80cbd1",
+      "type": "create",
+      "item": {
+        "title": "Steve Howe",
+        "story": [
+          {
+            "type": "html",
+            "text": "Not the one that plays the guitar I'm afraid :-)",
+            "id": "fb8cf0e30e3a23d73ee5dd060af75fc7"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveHowe c2.com]",
+            "id": "355d05ab39ae46339e001781634533d1"
+          }
+        ]
+      }
+    }
+  ]
+}
