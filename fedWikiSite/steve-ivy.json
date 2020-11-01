@@ -1,0 +1,97 @@
+{
+  "title": "Steve Ivy",
+  "story": [
+    {
+      "type": "html",
+      "text": "Steve Ivy - steve at redmonk dot net",
+      "id": "c78a7802108e10f82767a9408145f9b3"
+    },
+    {
+      "type": "html",
+      "text": "\n[http://www.redmonk.net/ www.redmonk.net]",
+      "id": "55184fb06bf21e235d3aeffa6a3eb218"
+    },
+    {
+      "type": "html",
+      "text": "\nAuthor of Sid ([http://sid.redmonk.net sid.redmonk.net])",
+      "id": "239ef13d686a0d662fbd0b3297dba42d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e59ecda1860afcafe48a7bc63ea8240b"
+    },
+    {
+      "type": "html",
+      "text": "<i>Welcome, if you haven't yet, check out [[New User Pages]] and [[Tour Bus Stop]]</i>",
+      "id": "0700bdc1da7617e146359d6a4fa6aa49"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e59ecda1860afcafe48a7bc63ea8240b"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "2898557d68434b0351c477b6cd7de90a"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveIvy c2.com]",
+      "id": "6035cbcbe8840463764d14d356b0d0f0"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1035378582000,
+      "id": "0d5382c435ea4404c924804f2ec7e23c",
+      "type": "create",
+      "item": {
+        "title": "Steve Ivy",
+        "story": [
+          {
+            "type": "html",
+            "text": "Steve Ivy - steve at redmonk dot net",
+            "id": "c78a7802108e10f82767a9408145f9b3"
+          },
+          {
+            "type": "html",
+            "text": "\n[http://www.redmonk.net/ www.redmonk.net]",
+            "id": "55184fb06bf21e235d3aeffa6a3eb218"
+          },
+          {
+            "type": "html",
+            "text": "\nAuthor of Sid ([http://sid.redmonk.net sid.redmonk.net])",
+            "id": "239ef13d686a0d662fbd0b3297dba42d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e59ecda1860afcafe48a7bc63ea8240b"
+          },
+          {
+            "type": "html",
+            "text": "<i>Welcome, if you haven't yet, check out [[New User Pages]] and [[Tour Bus Stop]]</i>",
+            "id": "0700bdc1da7617e146359d6a4fa6aa49"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e59ecda1860afcafe48a7bc63ea8240b"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "2898557d68434b0351c477b6cd7de90a"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveIvy c2.com]",
+            "id": "6035cbcbe8840463764d14d356b0d0f0"
+          }
+        ]
+      }
+    }
+  ]
+}
