@@ -1,0 +1,57 @@
+{
+  "title": "Steve Brown",
+  "story": [
+    {
+      "type": "html",
+      "text": "I work with inventors to patent and license their ideas.",
+      "id": "6923940de6bcdafa16ea8d31cb3fa0b6"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "611cf23d68f6eafecde2677f47983932"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "b49b946d48f00d0c47794b0ecb92c6da"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveBrown c2.com]",
+      "id": "ca84515059933502eacf87e948f88a86"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1058716942000,
+      "id": "fd5132c461a7559155ddee2ef1728787",
+      "type": "create",
+      "item": {
+        "title": "Steve Brown",
+        "story": [
+          {
+            "type": "html",
+            "text": "I work with inventors to patent and license their ideas.",
+            "id": "6923940de6bcdafa16ea8d31cb3fa0b6"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "611cf23d68f6eafecde2677f47983932"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "b49b946d48f00d0c47794b0ecb92c6da"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveBrown c2.com]",
+            "id": "ca84515059933502eacf87e948f88a86"
+          }
+        ]
+      }
+    }
+  ]
+}
