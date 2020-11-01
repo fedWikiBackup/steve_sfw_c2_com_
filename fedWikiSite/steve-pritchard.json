@@ -1,0 +1,87 @@
+{
+  "title": "Steve Pritchard",
+  "story": [
+    {
+      "type": "html",
+      "text": "Has almost 40 years experience in software programming. Specializes in migrating existing (legacy) application programs to alternate (newer) platforms. Began with doing IBM 1401 conversions to /360. Presently, has developed a technology that allows for the migration of COBOL programs onto a Java based platform. Refer to [http://www.altcode.com www.altcode.com] for more details.",
+      "id": "d2f1b026890d36387c57a2ba18dea47e"
+    },
+    {
+      "type": "html",
+      "text": "\nHmmm... non-COBOL routines assumed to be in C... how do you test the migrated code and prove it's functionality is not damaged?",
+      "id": "febeac44579267c0a08f5f2afb5af168"
+    },
+    {
+      "type": "html",
+      "text": "<i>We run the COBOL code in native format. Refer to [http://www.altcode.com www.altcode.com] for more details</i>  ",
+      "id": "106967b5f357213dcd80a55526c6b305"
+    },
+    {
+      "type": "html",
+      "text": "\nCan be contacted at mailto:spritchard@canada.com.",
+      "id": "65d44869cd5fb5e01a1fcc28641e04dc"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "37e7d7438c3840a1d63612ae338bdefe"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "1220db0c0f2e18916723b74d9dbf8d95"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevePritchard c2.com]",
+      "id": "f5afc9f09a2d52978b43e9903f83d307"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1015973409000,
+      "id": "3545fcd5629a52125e0cb76ab2f82cfa",
+      "type": "create",
+      "item": {
+        "title": "Steve Pritchard",
+        "story": [
+          {
+            "type": "html",
+            "text": "Has almost 40 years experience in software programming. Specializes in migrating existing (legacy) application programs to alternate (newer) platforms. Began with doing IBM 1401 conversions to /360. Presently, has developed a technology that allows for the migration of COBOL programs onto a Java based platform. Refer to [http://www.altcode.com www.altcode.com] for more details.",
+            "id": "d2f1b026890d36387c57a2ba18dea47e"
+          },
+          {
+            "type": "html",
+            "text": "\nHmmm... non-COBOL routines assumed to be in C... how do you test the migrated code and prove it's functionality is not damaged?",
+            "id": "febeac44579267c0a08f5f2afb5af168"
+          },
+          {
+            "type": "html",
+            "text": "<i>We run the COBOL code in native format. Refer to [http://www.altcode.com www.altcode.com] for more details</i>  ",
+            "id": "106967b5f357213dcd80a55526c6b305"
+          },
+          {
+            "type": "html",
+            "text": "\nCan be contacted at mailto:spritchard@canada.com.",
+            "id": "65d44869cd5fb5e01a1fcc28641e04dc"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "37e7d7438c3840a1d63612ae338bdefe"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "1220db0c0f2e18916723b74d9dbf8d95"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevePritchard c2.com]",
+            "id": "f5afc9f09a2d52978b43e9903f83d307"
+          }
+        ]
+      }
+    }
+  ]
+}
