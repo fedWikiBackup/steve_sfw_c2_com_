@@ -1,0 +1,37 @@
+{
+  "title": "Steven Viasus",
+  "story": [
+    {
+      "type": "html",
+      "text": "Tesing123",
+      "id": "382e4677385c081099ccc377b5167d73"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevenViasus c2.com]",
+      "id": "df73a3f1725e6408c1e72020ba7a0519"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1147185742000,
+      "id": "43fde665198a049c3c5acd031c999f6e",
+      "type": "create",
+      "item": {
+        "title": "Steven Viasus",
+        "story": [
+          {
+            "type": "html",
+            "text": "Tesing123",
+            "id": "382e4677385c081099ccc377b5167d73"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevenViasus c2.com]",
+            "id": "df73a3f1725e6408c1e72020ba7a0519"
+          }
+        ]
+      }
+    }
+  ]
+}
