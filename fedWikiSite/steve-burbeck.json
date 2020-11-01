@@ -1,0 +1,117 @@
+{
+  "title": "Steve Burbeck",
+  "story": [
+    {
+      "type": "html",
+      "text": "A very interesting fellow, and a good person to know.  He founded his own Smalltalk compiler company in the early 80's, then worked as a manager at Apple on the [[Mac App]] project. After that he became the vice-president and COO of [[Knowledge Systems Corporation]].  From 1995 - 2005 he was a senior researcher/developer/deep-thinker at IBM.  Now he is an independent consultant.",
+      "id": "7219c5e4777ed5c27a38203a1e53f2d0"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "a512acfcda2becd6da1057309e768f6c"
+    },
+    {
+      "type": "html",
+      "text": "Just a wee bit more detail (guaranteed 45% accuracy free)...\nSteve formed [[Soft Smarts]] with [[Abdul Nabi]]. I believe that they produced the first Xerox-independent Smalltalk system - pre Digitalk. Xerox/PARC didn't like this and sat on them.",
+      "id": "ce4262b7fb79bf03844f4c68932e6ed6"
+    },
+    {
+      "type": "html",
+      "text": "--[[Peter Goodall]]",
+      "id": "094cafd354666e6f22481a72dcea8003"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "a512acfcda2becd6da1057309e768f6c"
+    },
+    {
+      "type": "html",
+      "text": "Still more detail (guaranteed 100% accurate)...\nSoftsmarts was founded by Robert Roessler and myself in 1985.  Jerry Latter (now CIO of Rockefeller University) joined next and then Abdul Nabi.  We first did a Lisp port which sank like a stone, then moved on to Smalltalk.  Softsmarts produced the first fully Xerox compliant Smalltalk-80 for the IBM PC-AT, which we called Smalltalk-AT (say it out loud...clever, huh?).  Robert Roessler did most of the work on the virtual machine.  I focused on the Smalltalk image modifications and writing documentation (e.g., the paper on MVC which is now widely cited, see Google, and has been translated into Russian). Smalltalk-AT came out about the same time as Digitalk's \"Methods\" (at the first OOPSLA in 1986) which predated Digitalk Smalltalk by a year or so.  Due to royalty agreements with Xerox, Softsmarts could not compete with Digitalk's $100 pricing.  Xerox (by then [[Parc Place]]) thought the proper price point was $1000, not $100.  The market agreed with Digitalk.  Nuf said.",
+      "id": "907cef0173fd19b8c67c1bc3d8b0fc15"
+    },
+    {
+      "type": "html",
+      "text": "--[[Steve Burbeck]]",
+      "id": "5ce2b2993b73e51a7370504fcdc5d0b3"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "a512acfcda2becd6da1057309e768f6c"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "10a20d966378063a147a777bfb569f5d"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveBurbeck c2.com]",
+      "id": "69b0e78ec26b64ff985e268fccae5a42"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1146175277000,
+      "id": "b901e247ab264ea7eda346f54ac3aaf7",
+      "type": "create",
+      "item": {
+        "title": "Steve Burbeck",
+        "story": [
+          {
+            "type": "html",
+            "text": "A very interesting fellow, and a good person to know.  He founded his own Smalltalk compiler company in the early 80's, then worked as a manager at Apple on the [[Mac App]] project. After that he became the vice-president and COO of [[Knowledge Systems Corporation]].  From 1995 - 2005 he was a senior researcher/developer/deep-thinker at IBM.  Now he is an independent consultant.",
+            "id": "7219c5e4777ed5c27a38203a1e53f2d0"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "a512acfcda2becd6da1057309e768f6c"
+          },
+          {
+            "type": "html",
+            "text": "Just a wee bit more detail (guaranteed 45% accuracy free)...\nSteve formed [[Soft Smarts]] with [[Abdul Nabi]]. I believe that they produced the first Xerox-independent Smalltalk system - pre Digitalk. Xerox/PARC didn't like this and sat on them.",
+            "id": "ce4262b7fb79bf03844f4c68932e6ed6"
+          },
+          {
+            "type": "html",
+            "text": "--[[Peter Goodall]]",
+            "id": "094cafd354666e6f22481a72dcea8003"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "a512acfcda2becd6da1057309e768f6c"
+          },
+          {
+            "type": "html",
+            "text": "Still more detail (guaranteed 100% accurate)...\nSoftsmarts was founded by Robert Roessler and myself in 1985.  Jerry Latter (now CIO of Rockefeller University) joined next and then Abdul Nabi.  We first did a Lisp port which sank like a stone, then moved on to Smalltalk.  Softsmarts produced the first fully Xerox compliant Smalltalk-80 for the IBM PC-AT, which we called Smalltalk-AT (say it out loud...clever, huh?).  Robert Roessler did most of the work on the virtual machine.  I focused on the Smalltalk image modifications and writing documentation (e.g., the paper on MVC which is now widely cited, see Google, and has been translated into Russian). Smalltalk-AT came out about the same time as Digitalk's \"Methods\" (at the first OOPSLA in 1986) which predated Digitalk Smalltalk by a year or so.  Due to royalty agreements with Xerox, Softsmarts could not compete with Digitalk's $100 pricing.  Xerox (by then [[Parc Place]]) thought the proper price point was $1000, not $100.  The market agreed with Digitalk.  Nuf said.",
+            "id": "907cef0173fd19b8c67c1bc3d8b0fc15"
+          },
+          {
+            "type": "html",
+            "text": "--[[Steve Burbeck]]",
+            "id": "5ce2b2993b73e51a7370504fcdc5d0b3"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "a512acfcda2becd6da1057309e768f6c"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "10a20d966378063a147a777bfb569f5d"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveBurbeck c2.com]",
+            "id": "69b0e78ec26b64ff985e268fccae5a42"
+          }
+        ]
+      }
+    }
+  ]
+}
