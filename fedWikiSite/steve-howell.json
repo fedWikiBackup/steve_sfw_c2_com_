@@ -1,0 +1,77 @@
+{
+  "title": "Steve Howell",
+  "story": [
+    {
+      "type": "html",
+      "text": "Name: Steve Howell",
+      "id": "9032309c169b1221881ccb2927df5878"
+    },
+    {
+      "type": "html",
+      "text": "Location: Seattle, WA",
+      "id": "afd7ded96a89b7683bb88d69014189d6"
+    },
+    {
+      "type": "html",
+      "text": "Favorite Software Language: Python",
+      "id": "a9b0acb6ca7abfc55676025f8ad39722"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "5f4269f0593bcf656187279e0de2bc82"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "ad427bd9670603b7f03f49f5714fe1ad"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveHowell c2.com]",
+      "id": "7ebec0d4589c4c2540e43bfe7d588d60"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1261713514000,
+      "id": "5ed8c9766b362b03f19ca1ec2afdb45f",
+      "type": "create",
+      "item": {
+        "title": "Steve Howell",
+        "story": [
+          {
+            "type": "html",
+            "text": "Name: Steve Howell",
+            "id": "9032309c169b1221881ccb2927df5878"
+          },
+          {
+            "type": "html",
+            "text": "Location: Seattle, WA",
+            "id": "afd7ded96a89b7683bb88d69014189d6"
+          },
+          {
+            "type": "html",
+            "text": "Favorite Software Language: Python",
+            "id": "a9b0acb6ca7abfc55676025f8ad39722"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "5f4269f0593bcf656187279e0de2bc82"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "ad427bd9670603b7f03f49f5714fe1ad"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveHowell c2.com]",
+            "id": "7ebec0d4589c4c2540e43bfe7d588d60"
+          }
+        ]
+      }
+    }
+  ]
+}
