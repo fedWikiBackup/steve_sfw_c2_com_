@@ -1,0 +1,97 @@
+{
+  "title": "Steve Van Egmond",
+  "story": [
+    {
+      "type": "html",
+      "text": "I'm a senior production engineer at Novator systems ([http://www.novator.com/ www.novator.com] ), involved in the engineering of the web sites for FTD.com and FTD Florists Online.",
+      "id": "c196a0434dfcde944f832c5ba541dcb0"
+    },
+    {
+      "type": "html",
+      "text": "\nWe're experimenting with Extreme Programming, and it looks really promising.",
+      "id": "811699d54a2f3d9cf9dbd23e10828553"
+    },
+    {
+      "type": "html",
+      "text": "\nThe hard pard is, how to you write unit tests for a web page scripted with PHP or perl?",
+      "id": "1a4416812dd5ff8b12043b97f9b57b4e"
+    },
+    {
+      "type": "html",
+      "text": "<i>Essentially, you write a test harness that feeds the web server a given request, captures the output, and compares against known good output. See [[Http Unit]] for some pointers.</i>",
+      "id": "67af66fb0a6f05b564c4f0b7bb80815e"
+    },
+    {
+      "type": "html",
+      "text": "\nHome page is at [http://bang.dhs.org/ bang.dhs.org] .",
+      "id": "a29cd0c9e057dfde70ffeddf5221d88b"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "77daf157086e566ce6f7fd32306743e3"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "73a58528c011c34aedeb64cb94bec833"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveVanEgmond c2.com]",
+      "id": "06e783004f717b07a24f7400199782cb"
+    }
+  ],
+  "journal": [
+    {
+      "date": 984258610000,
+      "id": "77f875ac172ab50fb62ea174db7ba67e",
+      "type": "create",
+      "item": {
+        "title": "Steve Van Egmond",
+        "story": [
+          {
+            "type": "html",
+            "text": "I'm a senior production engineer at Novator systems ([http://www.novator.com/ www.novator.com] ), involved in the engineering of the web sites for FTD.com and FTD Florists Online.",
+            "id": "c196a0434dfcde944f832c5ba541dcb0"
+          },
+          {
+            "type": "html",
+            "text": "\nWe're experimenting with Extreme Programming, and it looks really promising.",
+            "id": "811699d54a2f3d9cf9dbd23e10828553"
+          },
+          {
+            "type": "html",
+            "text": "\nThe hard pard is, how to you write unit tests for a web page scripted with PHP or perl?",
+            "id": "1a4416812dd5ff8b12043b97f9b57b4e"
+          },
+          {
+            "type": "html",
+            "text": "<i>Essentially, you write a test harness that feeds the web server a given request, captures the output, and compares against known good output. See [[Http Unit]] for some pointers.</i>",
+            "id": "67af66fb0a6f05b564c4f0b7bb80815e"
+          },
+          {
+            "type": "html",
+            "text": "\nHome page is at [http://bang.dhs.org/ bang.dhs.org] .",
+            "id": "a29cd0c9e057dfde70ffeddf5221d88b"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "77daf157086e566ce6f7fd32306743e3"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "73a58528c011c34aedeb64cb94bec833"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveVanEgmond c2.com]",
+            "id": "06e783004f717b07a24f7400199782cb"
+          }
+        ]
+      }
+    }
+  ]
+}
