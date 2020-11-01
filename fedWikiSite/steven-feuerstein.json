@@ -1,0 +1,87 @@
+{
+  "title": "Steven Feuerstein",
+  "story": [
+    {
+      "type": "html",
+      "text": "[[Steven Feuerstein]] is the living god of Oracle PL/SQL programming.",
+      "id": "5cf29c8ac1bb3c96e681fa3338298835"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "3bf5f203dec19a9dd9757d8d5e1b38b7"
+    },
+    {
+      "type": "html",
+      "text": "'living god': <i>that's a bit much, isn't it? He's just this guy, you know... (apologies to Douglas Adams)</i>",
+      "id": "c95f2214c687aae91ba2ccb4b82c0513"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "3bf5f203dec19a9dd9757d8d5e1b38b7"
+    },
+    {
+      "type": "html",
+      "text": "A bio and list of his books is here at the O'Reilly Books site:\n[http://www.oreillynet.com/cs/catalog/view/au/344?x-t=book.view www.oreillynet.com]",
+      "id": "ab8102a21588318066f6a256e8ff2593"
+    },
+    {
+      "type": "html",
+      "text": "\nMost significantly, he is the author or co-author of several advances in PL/SQL programming including the Unit Testing Framework for PL/SQL ([[Pl Sql Unit]]), a definitive approach to PL/SQL exception handling (an extremely challenging area of that language for most beginners), and one of the first and arguably the language's best commercial code library, PL/Vision.",
+      "id": "f8f11daa8dce0ba86692d1a8d4bbc7e2"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevenFeuerstein c2.com]",
+      "id": "25f36623e9e34a8e1dc17cb6db9a9b05"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1092404457000,
+      "id": "f02a055fb752e6c81aed223318e1d462",
+      "type": "create",
+      "item": {
+        "title": "Steven Feuerstein",
+        "story": [
+          {
+            "type": "html",
+            "text": "[[Steven Feuerstein]] is the living god of Oracle PL/SQL programming.",
+            "id": "5cf29c8ac1bb3c96e681fa3338298835"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "3bf5f203dec19a9dd9757d8d5e1b38b7"
+          },
+          {
+            "type": "html",
+            "text": "'living god': <i>that's a bit much, isn't it? He's just this guy, you know... (apologies to Douglas Adams)</i>",
+            "id": "c95f2214c687aae91ba2ccb4b82c0513"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "3bf5f203dec19a9dd9757d8d5e1b38b7"
+          },
+          {
+            "type": "html",
+            "text": "A bio and list of his books is here at the O'Reilly Books site:\n[http://www.oreillynet.com/cs/catalog/view/au/344?x-t=book.view www.oreillynet.com]",
+            "id": "ab8102a21588318066f6a256e8ff2593"
+          },
+          {
+            "type": "html",
+            "text": "\nMost significantly, he is the author or co-author of several advances in PL/SQL programming including the Unit Testing Framework for PL/SQL ([[Pl Sql Unit]]), a definitive approach to PL/SQL exception handling (an extremely challenging area of that language for most beginners), and one of the first and arguably the language's best commercial code library, PL/Vision.",
+            "id": "f8f11daa8dce0ba86692d1a8d4bbc7e2"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevenFeuerstein c2.com]",
+            "id": "25f36623e9e34a8e1dc17cb6db9a9b05"
+          }
+        ]
+      }
+    }
+  ]
+}
