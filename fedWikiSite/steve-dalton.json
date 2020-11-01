@@ -1,0 +1,47 @@
+{
+  "title": "Steve Dalton",
+  "story": [
+    {
+      "type": "html",
+      "text": "I am a Computer Contractor, currently working at The Commonwealth Bank of Australia ([http://www.cba.com.au www.cba.com.au]) in Sydney. I am currently taking tentative steps into the [[Extreme Programming]] world, trying to educate others as much as possible along the wey.",
+      "id": "a2cef35186dc77ec365f62c67eb88bac"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Steve Dalton]]",
+      "id": "54ca0691ae07dd27ad4cdce6da99a9cd"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveDalton c2.com]",
+      "id": "e600dd36903d9bf0152070641cb874d0"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1099372324000,
+      "id": "389a4f3b6bf3a2172958d92104eafc74",
+      "type": "create",
+      "item": {
+        "title": "Steve Dalton",
+        "story": [
+          {
+            "type": "html",
+            "text": "I am a Computer Contractor, currently working at The Commonwealth Bank of Australia ([http://www.cba.com.au www.cba.com.au]) in Sydney. I am currently taking tentative steps into the [[Extreme Programming]] world, trying to educate others as much as possible along the wey.",
+            "id": "a2cef35186dc77ec365f62c67eb88bac"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Steve Dalton]]",
+            "id": "54ca0691ae07dd27ad4cdce6da99a9cd"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveDalton c2.com]",
+            "id": "e600dd36903d9bf0152070641cb874d0"
+          }
+        ]
+      }
+    }
+  ]
+}
