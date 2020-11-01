@@ -1,0 +1,57 @@
+{
+  "title": "Steven Coco",
+  "story": [
+    {
+      "type": "html",
+      "text": "This is my Wiki home page. It mostly is serving to provide some accountability for my input. To see even less about me, visit the Website for my sole proprietorship: [http://www.StevenCoco.com/ www.StevenCoco.com]",
+      "id": "627f9036adb674b60e44c0d0ca945027"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "a83f29f38b51692c960eef4a427c8601"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "83af9d8913e1dfa588fed5f7ace4d557"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StevenCoco c2.com]",
+      "id": "023c4fff8d34a8dee064c0ffaf0644fd"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1335557948000,
+      "id": "a12ad74eee6d97e2a4757b399398cc9b",
+      "type": "create",
+      "item": {
+        "title": "Steven Coco",
+        "story": [
+          {
+            "type": "html",
+            "text": "This is my Wiki home page. It mostly is serving to provide some accountability for my input. To see even less about me, visit the Website for my sole proprietorship: [http://www.StevenCoco.com/ www.StevenCoco.com]",
+            "id": "627f9036adb674b60e44c0d0ca945027"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "a83f29f38b51692c960eef4a427c8601"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "83af9d8913e1dfa588fed5f7ace4d557"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StevenCoco c2.com]",
+            "id": "023c4fff8d34a8dee064c0ffaf0644fd"
+          }
+        ]
+      }
+    }
+  ]
+}
