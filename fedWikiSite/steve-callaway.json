@@ -1,0 +1,67 @@
+{
+  "title": "Steve Callaway",
+  "story": [
+    {
+      "type": "html",
+      "text": "Steve Callaway appears to be <i>h. sapiens</i> and an AI systems designer. He lives in Plymouth, Devon, England. He studies Norse mythology, Anglo-Saxon English and Cornish language, besides writing for www.wikipedia.org and occasionally doing some serious consultancy work.",
+      "id": "b255b464bd24e6da1b4873d87d64ccc7"
+    },
+    {
+      "type": "html",
+      "text": "\nHe likes the [[Ruby Language]] very much indeed. Unfortunately the [[Java Language]] pays the bills.",
+      "id": "b88ff9e140fc14e2603ed59af520958e"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0a200330c08010c98cbd0d54f3f9e512"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "0f0217d64bc8ca447025ef5cde472691"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveCallaway c2.com]",
+      "id": "a85046866704a5483fba4ac912c436d1"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1127325380000,
+      "id": "385fc1cad0881f6dc7a82b864412df50",
+      "type": "create",
+      "item": {
+        "title": "Steve Callaway",
+        "story": [
+          {
+            "type": "html",
+            "text": "Steve Callaway appears to be <i>h. sapiens</i> and an AI systems designer. He lives in Plymouth, Devon, England. He studies Norse mythology, Anglo-Saxon English and Cornish language, besides writing for www.wikipedia.org and occasionally doing some serious consultancy work.",
+            "id": "b255b464bd24e6da1b4873d87d64ccc7"
+          },
+          {
+            "type": "html",
+            "text": "\nHe likes the [[Ruby Language]] very much indeed. Unfortunately the [[Java Language]] pays the bills.",
+            "id": "b88ff9e140fc14e2603ed59af520958e"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0a200330c08010c98cbd0d54f3f9e512"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "0f0217d64bc8ca447025ef5cde472691"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveCallaway c2.com]",
+            "id": "a85046866704a5483fba4ac912c436d1"
+          }
+        ]
+      }
+    }
+  ]
+}
