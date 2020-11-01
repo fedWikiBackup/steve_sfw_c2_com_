@@ -1,0 +1,167 @@
+{
+  "title": "Steve Taylor",
+  "story": [
+    {
+      "type": "html",
+      "text": "Steve Taylor has been an editor, technical writer, Perl developer -- all in shades. Programming and related work included dBase (1979, 1983); WP macros 1986; VB managing a database/1986; 1995 a bit more intense with Oracle and Perl; Emacs; Vi.. (Sure, there were spring chickens back then. With dark hair :-). But Wikis and the web could be forums of <i>change and growth..,</i> we hope.",
+      "id": "709a7bbb40a367dacd77cc8e84db230e"
+    },
+    {
+      "type": "html",
+      "text": "\nEven Wiki history ... people like [[Ward Cunningham]], [[Clifford Adams]], [[Scott Walters]] - add the list of people behind open source, html, browsers.",
+      "id": "02973d429407abd1eb01838ec253b692"
+    },
+    {
+      "type": "html",
+      "text": "<b>Links</b> ;-|",
+      "id": "7373464c8d2a51c2351b6b976d3607f5"
+    },
+    {
+      "type": "html",
+      "text": " [[Front Page]], [[Wiki Wiki Web]], [[Starting Points]], ",
+      "id": "8d5b74aea5c133caacfd53ab511ff32a"
+    },
+    {
+      "type": "html",
+      "text": " About Wikis: varieties - [[Wiki Engines]], like this one - [[Sister Sites]] multiple variations - [[Wiki Clones]]; to start a wiki - [[Wiki Farms]] (to have your say?) - [[Wiki Forums]]",
+      "id": "3651fb9533b259e8efdadd33122572b9"
+    },
+    {
+      "type": "html",
+      "text": " [[Text Formatting]], [[Text Formatting Examples]], [[Text Formatting Rules]]",
+      "id": "f9d36806bf6a5246dc43366da243f33b"
+    },
+    {
+      "type": "html",
+      "text": " Practice in the [[Wiki Wiki Sandbox]]",
+      "id": "dde492c7473a9da915b7e6309089a89a"
+    },
+    {
+      "type": "html",
+      "text": " Pagelists: [[Recent Changes]], [[Quick Changes]]; [[[http://sunir.org/apps/meta.pl?list=WikiWiki sunir.org] Faster Text List by Sunir]], [[http://c2.com/cgi/wikiNames c2.com] slower text list], [[http://www.c2.com/cgi/wiki?search=.* www.c2.com] slower html list], [[Really Valuable Pages]]; ",
+      "id": "1416d2d841c8492fbf3a695414e8d09a"
+    },
+    {
+      "type": "html",
+      "text": " Search for pages at [[Find Page]], [[Wiki Url]]",
+      "id": "9e6f9c1de7b7bbe203b412ab5e715228"
+    },
+    {
+      "type": "html",
+      "text": " Administration: Signing in (see [[User Name]], [[Real Names Please]]), or choose the link here that resembles your address bar's text: [http://www.c2.com/cgi/wikiOptions www.c2.com] or [http://c2.com/cgi/wikiOptions c2.com]",
+      "id": "6e2a701901a4962c89ea9a4239a96943"
+    },
+    {
+      "type": "html",
+      "text": " January 15, 2005 mostly on [[Emacs Wiki]]. This is deletable if necessary. Thanks.",
+      "id": "843281b337be3238e9e8bcef9f5a5cad"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Steve Taylor]]",
+      "id": "0d652d85eda18cb5eda1010abab010e0"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "08f08918e3836804cded8a5297438076"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Home Page]]",
+      "id": "d85ebc7df7fe4d3837b2bf2c41c4a544"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SteveTaylor c2.com]",
+      "id": "a848cff90c38f273a91c945d487143f2"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1105845590000,
+      "id": "24122d45e16b743e02099a00ef5eb512",
+      "type": "create",
+      "item": {
+        "title": "Steve Taylor",
+        "story": [
+          {
+            "type": "html",
+            "text": "Steve Taylor has been an editor, technical writer, Perl developer -- all in shades. Programming and related work included dBase (1979, 1983); WP macros 1986; VB managing a database/1986; 1995 a bit more intense with Oracle and Perl; Emacs; Vi.. (Sure, there were spring chickens back then. With dark hair :-). But Wikis and the web could be forums of <i>change and growth..,</i> we hope.",
+            "id": "709a7bbb40a367dacd77cc8e84db230e"
+          },
+          {
+            "type": "html",
+            "text": "\nEven Wiki history ... people like [[Ward Cunningham]], [[Clifford Adams]], [[Scott Walters]] - add the list of people behind open source, html, browsers.",
+            "id": "02973d429407abd1eb01838ec253b692"
+          },
+          {
+            "type": "html",
+            "text": "<b>Links</b> ;-|",
+            "id": "7373464c8d2a51c2351b6b976d3607f5"
+          },
+          {
+            "type": "html",
+            "text": " [[Front Page]], [[Wiki Wiki Web]], [[Starting Points]], ",
+            "id": "8d5b74aea5c133caacfd53ab511ff32a"
+          },
+          {
+            "type": "html",
+            "text": " About Wikis: varieties - [[Wiki Engines]], like this one - [[Sister Sites]] multiple variations - [[Wiki Clones]]; to start a wiki - [[Wiki Farms]] (to have your say?) - [[Wiki Forums]]",
+            "id": "3651fb9533b259e8efdadd33122572b9"
+          },
+          {
+            "type": "html",
+            "text": " [[Text Formatting]], [[Text Formatting Examples]], [[Text Formatting Rules]]",
+            "id": "f9d36806bf6a5246dc43366da243f33b"
+          },
+          {
+            "type": "html",
+            "text": " Practice in the [[Wiki Wiki Sandbox]]",
+            "id": "dde492c7473a9da915b7e6309089a89a"
+          },
+          {
+            "type": "html",
+            "text": " Pagelists: [[Recent Changes]], [[Quick Changes]]; [[[http://sunir.org/apps/meta.pl?list=WikiWiki sunir.org] Faster Text List by Sunir]], [[http://c2.com/cgi/wikiNames c2.com] slower text list], [[http://www.c2.com/cgi/wiki?search=.* www.c2.com] slower html list], [[Really Valuable Pages]]; ",
+            "id": "1416d2d841c8492fbf3a695414e8d09a"
+          },
+          {
+            "type": "html",
+            "text": " Search for pages at [[Find Page]], [[Wiki Url]]",
+            "id": "9e6f9c1de7b7bbe203b412ab5e715228"
+          },
+          {
+            "type": "html",
+            "text": " Administration: Signing in (see [[User Name]], [[Real Names Please]]), or choose the link here that resembles your address bar's text: [http://www.c2.com/cgi/wikiOptions www.c2.com] or [http://c2.com/cgi/wikiOptions c2.com]",
+            "id": "6e2a701901a4962c89ea9a4239a96943"
+          },
+          {
+            "type": "html",
+            "text": " January 15, 2005 mostly on [[Emacs Wiki]]. This is deletable if necessary. Thanks.",
+            "id": "843281b337be3238e9e8bcef9f5a5cad"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Steve Taylor]]",
+            "id": "0d652d85eda18cb5eda1010abab010e0"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "08f08918e3836804cded8a5297438076"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Home Page]]",
+            "id": "d85ebc7df7fe4d3837b2bf2c41c4a544"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SteveTaylor c2.com]",
+            "id": "a848cff90c38f273a91c945d487143f2"
+          }
+        ]
+      }
+    }
+  ]
+}
